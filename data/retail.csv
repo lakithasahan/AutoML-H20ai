@@ -1,0 +1,1412 @@
+cutomer_id,date,item_name,category,unit_price,purchased_price,quantity,status,Revenue
+0,24/02/2003,Motorcycles,Classic Cars,51.0376688,80,42,Shipped,2143.58209
+1,7/05/2003,Motorcycles,Classic Cars,43,38,10,Shipped,430
+2,1/07/2003,Motorcycles,Classic Cars,24,19,23,Shipped,552
+3,25/08/2003,Motorcycles,Classic Cars,83,78,41,Shipped,3403
+4,10/10/2003,Motorcycles,Classic Cars,48,46.04335466,14,Shipped,672
+5,28/10/2003,Motorcycles,Classic Cars,13,8,25,Shipped,325
+6,11/11/2003,Motorcycles,Classic Cars,5,46.04335466,14,Shipped,70
+7,18/11/2003,Motorcycles,Classic Cars,16,11,38,Shipped,608
+8,1/12/2003,Motorcycles,Classic Cars,89,46.04335466,11,Shipped,979
+9,15/01/2004,Motorcycles,Classic Cars,64,59,46,Shipped,2944
+10,20/02/2004,Motorcycles,Classic Cars,70,65,30,Shipped,2100
+11,5/04/2004,Motorcycles,Classic Cars,49,44,11,Shipped,539
+12,18/05/2004,Motorcycles,Classic Cars,96,91,11,Shipped,1056
+13,28/06/2004,Motorcycles,Classic Cars,73,68,42,Shipped,3066
+14,23/07/2004,Motorcycles,Motorcycles,89,84,47,Shipped,4183
+15,27/08/2004,Motorcycles,Vintage Cars,72,67,46,Shipped,3312
+16,30/09/2004,Motorcycles,Classic Cars,85,80,26.48899929,Shipped,2251.56494
+17,15/10/2004,Motorcycles,Trucks and Buses,35,30,26.48899929,Shipped,927.1149752
+18,2/11/2004,Motorcycles,Vintage Cars,52,47,5,Shipped,260
+19,15/11/2004,Motorcycles,Motorcycles,21,16,9,Shipped,189
+20,24/11/2004,Motorcycles,Classic Cars,77,72,14,Shipped,1078
+21,17/12/2004,Motorcycles,Classic Cars,35,30,18,Shipped,630
+22,3/02/2005,Motorcycles,Classic Cars,38,33,50,Shipped,1900
+23,3/03/2005,Motorcycles,Vintage Cars,9,4,11,Shipped,99
+24,8/04/2005,Motorcycles,Trucks and Buses,51.0376688,57,27,Shipped,1378.017058
+25,13/05/2005,Motorcycles,Vintage Cars,72,67,14,Disputed,1008
+26,29/01/2003,Classic Cars,Classic Cars,51.0376688,68,19,Shipped,969.7157072
+27,24/03/2003,Classic Cars,Motorcycles,80,75,15,Shipped,1200
+28,28/05/2003,Classic Cars,Vintage Cars,33,28,29,Shipped,957
+29,24/07/2003,Classic Cars,Classic Cars,51.0376688,5,9,Shipped,459.3390192
+30,19/09/2003,Classic Cars,Trucks and Buses,71,66,46,Shipped,3266
+31,20/10/2003,Classic Cars,Motorcycles,31,26,29,Shipped,899
+32,6/11/2003,Classic Cars,Classic Cars,51,46,17,Shipped,867
+33,13/11/2003,Classic Cars,Motorcycles,26,21,25,Shipped,650
+34,25/11/2003,Classic Cars,Trucks and Buses,19,14,24,Shipped,456
+35,5/12/2003,Classic Cars,Motorcycles,47,42,37,Shipped,1739
+36,29/01/2004,Classic Cars,Vintage Cars,23,18,28,Shipped,644
+37,10/03/2004,Classic Cars,Vintage Cars,80,46.04335466,43,Shipped,3440
+38,4/05/2004,Classic Cars,Vintage Cars,84,79,27,Shipped,2268
+39,15/06/2004,Classic Cars,Vintage Cars,66,61,3,Shipped,198
+40,19/07/2004,Classic Cars,Trucks and Buses,23,18,46,Shipped,1058
+41,17/08/2004,Classic Cars,Classic Cars,99,94,31,Shipped,3069
+42,8/09/2004,Classic Cars,Classic Cars,11,6,14,Shipped,154
+43,11/10/2004,Classic Cars,Vintage Cars,24,19,38,Shipped,912
+44,21/10/2004,Classic Cars,Classic Cars,89,84,31,Shipped,2759
+45,4/11/2004,Classic Cars,Classic Cars,41,36,38,Shipped,1558
+46,18/11/2004,Classic Cars,Classic Cars,47,42,19,Shipped,893
+47,29/11/2004,Classic Cars,Classic Cars,52,47,40,Shipped,2080
+48,10/12/2004,Classic Cars,Classic Cars,78,73,31,Shipped,2418
+49,20/01/2005,Classic Cars,Vintage Cars,82,77,33,Shipped,2706
+50,17/02/2005,Classic Cars,Classic Cars,58,53,42,Shipped,2436
+51,9/03/2005,Classic Cars,Classic Cars,87,82,5,Shipped,435
+52,1/05/2005,Classic Cars,Vintage Cars,38,33,43,Shipped,1634
+53,31/05/2005,Classic Cars,Vintage Cars,89,84,18,In Process,1602
+54,24/02/2003,Motorcycles,Classic Cars,78,73,49,Shipped,3822
+55,29/04/2003,Motorcycles,Planes,47,42,47,Shipped,2209
+56,1/07/2003,Motorcycles,Vintage Cars,48,43,41,Shipped,1968
+57,25/08/2003,Motorcycles,Classic Cars,54,49,28,Shipped,1512
+58,10/10/2003,Motorcycles,Motorcycles,87,82,21,Shipped,1827
+59,28/10/2003,Motorcycles,Vintage Cars,71,66,47,Shipped,3337
+60,11/11/2003,Motorcycles,Motorcycles,84,79,46,Shipped,3864
+61,18/11/2003,Motorcycles,Trucks and Buses,7,2,5,Shipped,35
+62,1/12/2003,Motorcycles,Trucks and Buses,15,10,45,Shipped,675
+63,12/01/2004,Motorcycles,Planes,36,31,30,Shipped,1080
+64,20/02/2004,Motorcycles,Classic Cars,45,40,47,Shipped,2115
+65,3/04/2004,Motorcycles,Vintage Cars,93,88,15,Shipped,1395
+66,18/05/2004,Motorcycles,Classic Cars,91,86,47,Shipped,4277
+67,28/06/2004,Motorcycles,Trains,5,0,20,Shipped,100
+68,23/07/2004,Motorcycles,Classic Cars,29,24,9,Shipped,261
+69,27/08/2004,Motorcycles,Classic Cars,39,34,39,Shipped,1521
+70,27/09/2004,Motorcycles,Vintage Cars,68,63,18,Shipped,1224
+71,15/10/2004,Motorcycles,Classic Cars,19,14,38,Shipped,722
+72,2/11/2004,Motorcycles,Motorcycles,85,80,50,Shipped,4250
+73,15/11/2004,Motorcycles,Trucks and Buses,37,32,49,Shipped,1813
+74,23/11/2004,Motorcycles,Motorcycles,56,51,44,Shipped,2464
+75,17/12/2004,Motorcycles,Trucks and Buses,57,52,38,Shipped,2166
+76,2/02/2005,Motorcycles,Vintage Cars,37,32,31,Shipped,1147
+77,3/03/2005,Motorcycles,Trucks and Buses,61,56,7,Shipped,427
+78,7/04/2005,Motorcycles,Motorcycles,33,28,16,Shipped,528
+79,13/05/2005,Motorcycles,Classic Cars,34,29,31,Disputed,1054
+80,24/02/2003,Motorcycles,Vintage Cars,10,5,50,Shipped,500
+81,29/04/2003,Motorcycles,Classic Cars,71,66,23,Shipped,1633
+82,1/07/2003,Motorcycles,Trucks and Buses,28,23,43,Shipped,1204
+83,25/08/2003,Motorcycles,Vintage Cars,32,27,16,Shipped,512
+84,10/10/2003,Motorcycles,Classic Cars,65,60,41,Shipped,2665
+85,28/10/2003,Motorcycles,Trucks and Buses,21,16,21,Shipped,441
+86,11/11/2003,Motorcycles,Planes,87,82,46,Shipped,4002
+87,18/11/2003,Motorcycles,Vintage Cars,28,23,35,Shipped,980
+88,1/12/2003,Motorcycles,Motorcycles,10,5,50,Shipped,500
+89,12/01/2004,Motorcycles,Vintage Cars,79,74,7,Shipped,553
+90,20/02/2004,Motorcycles,Motorcycles,78,73,5,Shipped,390
+91,5/04/2004,Motorcycles,Classic Cars,38,33,39,Shipped,1482
+92,18/05/2004,Motorcycles,Classic Cars,73,68,19,Shipped,1387
+93,28/06/2004,Motorcycles,Trucks and Buses,34,29,49,Shipped,1666
+94,23/07/2004,Motorcycles,Vintage Cars,61,56,19,Shipped,1159
+95,27/08/2004,Motorcycles,Vintage Cars,9,4,19,Shipped,171
+96,30/09/2004,Motorcycles,Vintage Cars,76,71,4,Shipped,304
+97,15/10/2004,Motorcycles,Vintage Cars,69,64,42,Shipped,2898
+98,2/11/2004,Motorcycles,Classic Cars,63,58,43,Shipped,2709
+99,15/11/2004,Motorcycles,Classic Cars,30,25,5,Shipped,150
+100,23/11/2004,Motorcycles,Classic Cars,76,71,4,Shipped,304
+101,5/01/2005,Motorcycles,Classic Cars,62,57,38,Shipped,2356
+102,2/02/2005,Motorcycles,Classic Cars,63,58,24,Shipped,1512
+103,3/03/2005,Motorcycles,Classic Cars,49,44,21,Shipped,1029
+104,8/04/2005,Motorcycles,Trains,8,3,44,Shipped,352
+105,13/05/2005,Motorcycles,Trucks and Buses,24,19,26,Disputed,624
+106,11/02/2003,Classic Cars,Classic Cars,24,19,50,Shipped,1200
+107,28/04/2003,Classic Cars,Vintage Cars,96,91,15,Shipped,1440
+108,12/06/2003,Classic Cars,Classic Cars,72,67,8,Shipped,576
+109,10/08/2003,Classic Cars,Vintage Cars,55,50,26,Shipped,1430
+110,6/10/2003,Classic Cars,Classic Cars,35,30,30,Shipped,1050
+111,23/10/2003,Classic Cars,Vintage Cars,86,81,44,Cancelled,3784
+112,8/11/2003,Classic Cars,Classic Cars,97,92,32,Shipped,3104
+113,14/11/2003,Classic Cars,Trucks and Buses,71,66,5,Shipped,355
+114,26/11/2003,Classic Cars,Vintage Cars,55,50,5,Shipped,275
+115,9/01/2004,Classic Cars,Classic Cars,29,24,17,Shipped,493
+116,19/02/2004,Classic Cars,Classic Cars,34,29,32,Shipped,1088
+117,7/05/2004,Classic Cars,Motorcycles,22,17,28,Cancelled,616
+118,17/06/2004,Classic Cars,Motorcycles,24,19,9,Shipped,216
+119,21/07/2004,Classic Cars,Trucks and Buses,89,84,44,Shipped,3916
+120,20/08/2004,Classic Cars,Motorcycles,12,7,32,Shipped,384
+121,10/09/2004,Classic Cars,Motorcycles,75,70,24,Shipped,1800
+122,14/10/2004,Classic Cars,Motorcycles,76,71,31,Shipped,2356
+123,1/11/2004,Classic Cars,Classic Cars,15,10,42,Shipped,630
+124,5/11/2004,Classic Cars,Classic Cars,90,85,43,Shipped,3870
+125,21/11/2004,Classic Cars,Classic Cars,70,65,31,Shipped,2170
+126,2/12/2004,Classic Cars,Motorcycles,14,9,32,Shipped,448
+127,15/12/2004,Classic Cars,Trains,49,44,39,Shipped,1911
+128,31/01/2005,Classic Cars,Classic Cars,99,94,33,Shipped,3267
+129,23/02/2005,Classic Cars,Classic Cars,63,58,50,Shipped,3150
+130,17/03/2005,Classic Cars,Vintage Cars,14,9,33,Shipped,462
+131,1/04/2005,Classic Cars,Classic Cars,46,41,37,Shipped,1702
+132,6/05/2005,Classic Cars,Motorcycles,39,34,13,On Hold,507
+133,29/01/2003,Classic Cars,Classic Cars,82,77,11,Shipped,902
+134,1/04/2003,Classic Cars,Vintage Cars,49,44,13,Shipped,637
+135,28/05/2003,Classic Cars,Vintage Cars,87,82,32,Shipped,2784
+136,24/07/2003,Classic Cars,Classic Cars,24,19,31,Shipped,744
+137,19/09/2003,Classic Cars,Vintage Cars,30,25,25,Shipped,750
+138,21/10/2003,Classic Cars,Classic Cars,22,17,5,Resolved,110
+139,6/11/2003,Classic Cars,Classic Cars,29,24,38,Shipped,1102
+140,13/11/2003,Classic Cars,Trucks and Buses,57,52,3,Shipped,171
+141,25/11/2003,Classic Cars,Classic Cars,68,63,47,Shipped,3196
+142,9/12/2003,Classic Cars,Classic Cars,9,4,22,Shipped,198
+143,4/02/2004,Classic Cars,Trains,67,62,45,Shipped,3015
+144,11/03/2004,Classic Cars,Motorcycles,30,25,33,Shipped,990
+145,4/05/2004,Classic Cars,Classic Cars,37,32,25,Shipped,925
+146,15/06/2004,Classic Cars,Motorcycles,100,95,42,Shipped,4200
+147,19/07/2004,Classic Cars,Classic Cars,24,19,50,Shipped,1200
+148,19/08/2004,Classic Cars,Classic Cars,15,10,26,Shipped,390
+149,8/09/2004,Classic Cars,Classic Cars,34,29,33,Shipped,1122
+150,13/10/2004,Classic Cars,Classic Cars,72,67,36,Shipped,2592
+151,22/10/2004,Classic Cars,Trucks and Buses,60,55,50,Shipped,3000
+152,4/11/2004,Classic Cars,Ships,61,56,31,Shipped,1891
+153,19/11/2004,Classic Cars,Vintage Cars,5,0,50,On Hold,250
+154,29/11/2004,Classic Cars,Motorcycles,58,53,28,Shipped,1624
+155,10/12/2004,Classic Cars,Classic Cars,73,68,11,Shipped,803
+156,20/01/2005,Classic Cars,Vintage Cars,52,47,9,Shipped,468
+157,17/02/2005,Classic Cars,Vintage Cars,36,31,48,Shipped,1728
+158,9/03/2005,Classic Cars,Vintage Cars,84,79,44,Shipped,3696
+159,1/05/2005,Classic Cars,Motorcycles,68,63,29,Shipped,1972
+160,31/05/2005,Classic Cars,Planes,92,87,8,In Process,736
+161,3/03/2003,Classic Cars,Vintage Cars,22,17,12,Shipped,264
+162,8/05/2003,Classic Cars,Motorcycles,94,89,45,Shipped,4230
+163,2/07/2003,Classic Cars,Classic Cars,78,73,22,Shipped,1716
+164,5/09/2003,Classic Cars,Classic Cars,53,48,49,Shipped,2597
+165,10/10/2003,Classic Cars,Classic Cars,88,83,45,Shipped,3960
+166,4/11/2003,Classic Cars,Classic Cars,15,10,23,Shipped,345
+167,12/11/2003,Classic Cars,Classic Cars,70,65,40,Shipped,2800
+168,20/11/2003,Classic Cars,Classic Cars,87,82,30,Shipped,2610
+169,2/12/2003,Classic Cars,Trucks and Buses,36,31,35,Shipped,1260
+170,15/01/2004,Classic Cars,Motorcycles,76,71,26,Shipped,1976
+171,22/02/2004,Classic Cars,Vintage Cars,79,74,30,Shipped,2370
+172,9/04/2004,Classic Cars,Classic Cars,27,22,14,Shipped,378
+173,1/06/2004,Classic Cars,Vintage Cars,26,21,15,Cancelled,390
+174,6/07/2004,Classic Cars,Motorcycles,24,19,3,Shipped,72
+175,2/08/2004,Classic Cars,Motorcycles,43,38,40,Shipped,1720
+176,30/08/2004,Classic Cars,Classic Cars,74,69,11,Shipped,814
+177,4/10/2003,Classic Cars,Vintage Cars,60,55,9,Shipped,540
+178,16/10/2004,Classic Cars,Vintage Cars,37,32,6,Shipped,222
+179,3/11/2004,Classic Cars,Trucks and Buses,31,26,34,Shipped,1054
+180,15/11/2004,Classic Cars,Vintage Cars,40,35,43,Shipped,1720
+181,24/11/2004,Classic Cars,Vintage Cars,22,17,35,Shipped,770
+182,6/01/2005,Classic Cars,Motorcycles,70,65,13,Shipped,910
+183,3/02/2005,Classic Cars,Trucks and Buses,96,91,41,Shipped,3936
+184,3/03/2005,Classic Cars,Classic Cars,40,35,26,Shipped,1040
+185,17/05/2005,Classic Cars,Planes,72,67,50,Shipped,3600
+186,11/02/2003,Classic Cars,Trucks and Buses,83,78,26,Shipped,2158
+187,16/04/2003,Classic Cars,Vintage Cars,29,24,5,Shipped,145
+188,3/06/2003,Classic Cars,Classic Cars,62,57,38,Shipped,2356
+189,8/08/2003,Classic Cars,Vintage Cars,16,11,25,Shipped,400
+190,28/09/2003,Classic Cars,Vintage Cars,38,33,38,Shipped,1444
+191,22/10/2003,Classic Cars,Trucks and Buses,75,70,15,Shipped,1125
+192,6/11/2003,Classic Cars,Planes,21,16,3,Shipped,63
+193,14/11/2003,Classic Cars,Trains,23,18,31,Shipped,713
+194,26/11/2003,Classic Cars,Classic Cars,100,95,32,Shipped,3200
+195,2/01/2004,Classic Cars,Vintage Cars,95,90,35,Shipped,3325
+196,12/02/2004,Classic Cars,Planes,37,32,23,Shipped,851
+197,19/03/2004,Classic Cars,Ships,62,57,42,Shipped,2604
+198,5/05/2004,Classic Cars,Motorcycles,3,-2,20,Shipped,60
+199,20/07/2004,Classic Cars,Classic Cars,16,11,17,Shipped,272
+200,20/08/2004,Classic Cars,Classic Cars,55,50,3,Shipped,165
+201,9/09/2004,Classic Cars,Ships,49,44,39,Shipped,1911
+202,14/10/2004,Classic Cars,Classic Cars,9,4,21,Shipped,189
+203,22/10/2004,Classic Cars,Vintage Cars,19,14,32,Shipped,608
+204,5/11/2004,Classic Cars,Vintage Cars,9,4,9,Shipped,81
+205,20/11/2004,Classic Cars,Trucks and Buses,10,5,29,Shipped,290
+206,1/11/2004,Classic Cars,Classic Cars,18,13,23,Shipped,414
+207,15/12/2004,Classic Cars,Trucks and Buses,53,48,48,Shipped,2544
+208,23/01/2005,Classic Cars,Trucks and Buses,54,49,9,Shipped,486
+209,17/02/2005,Classic Cars,Classic Cars,57,52,35,Shipped,1995
+210,17/03/2005,Classic Cars,Trucks and Buses,80,75,36,Shipped,2880
+211,5/05/2005,Classic Cars,Classic Cars,84,79,28,Shipped,2352
+212,29/01/2003,Trucks and Buses,Classic Cars,7,2,9,Shipped,63
+213,26/03/2003,Trucks and Buses,Motorcycles,19,14,28,Shipped,532
+214,28/05/2003,Trucks and Buses,Classic Cars,64,59,12,Shipped,768
+215,24/07/2003,Trucks and Buses,Trucks and Buses,32,27,17,Shipped,544
+216,19/09/2003,Trucks and Buses,Trucks and Buses,21,16,21,Shipped,441
+217,21/10/2003,Trucks and Buses,Trucks and Buses,69,64,5,Resolved,345
+218,6/11/2003,Trucks and Buses,Classic Cars,11,6,17,Shipped,187
+219,13/11/2003,Trucks and Buses,Vintage Cars,53,48,33,Shipped,1749
+220,25/11/2003,Trucks and Buses,Classic Cars,28,23,25,Shipped,700
+221,5/12/2003,Trucks and Buses,Planes,51,46,21,Shipped,1071
+222,2/02/2004,Trucks and Buses,Vintage Cars,47,42,10,Shipped,470
+223,11/03/2004,Trucks and Buses,Classic Cars,25,20,34,Shipped,850
+224,4/05/2004,Trucks and Buses,Trucks and Buses,55,50,44,Shipped,2420
+225,15/06/2004,Trucks and Buses,Classic Cars,57,52,45,Shipped,2565
+226,19/07/2004,Trucks and Buses,Classic Cars,19,14,10,Shipped,190
+227,19/08/2004,Trucks and Buses,Classic Cars,49,44,18,Shipped,882
+228,8/09/2004,Trucks and Buses,Classic Cars,36,31,22,Shipped,792
+229,11/10/2004,Trucks and Buses,Classic Cars,54,49,30,Shipped,1620
+230,22/10/2004,Trucks and Buses,Vintage Cars,26,21,37,Shipped,962
+231,4/11/2004,Trucks and Buses,Ships,22,17,39,Shipped,858
+232,18/11/2004,Trucks and Buses,Trucks and Buses,68,63,34,Shipped,2312
+233,29/11/2004,Trucks and Buses,Motorcycles,51,46,42,Shipped,2142
+234,10/12/2004,Trucks and Buses,Classic Cars,70,65,50,Shipped,3500
+235,20/01/2005,Trucks and Buses,Classic Cars,33,28,48,Shipped,1584
+236,17/02/2005,Trucks and Buses,Vintage Cars,60,55,49,Shipped,2940
+237,9/03/2005,Trucks and Buses,Classic Cars,11,6,6,Shipped,66
+238,1/05/2005,Trucks and Buses,Vintage Cars,74,69,50,Shipped,3700
+239,31/05/2005,Trucks and Buses,Motorcycles,75,70,47,In Process,3525
+240,24/02/2003,Motorcycles,Trucks and Buses,61,56,23,Shipped,1403
+241,7/05/2003,Motorcycles,Classic Cars,72,67,40,Shipped,2880
+242,1/07/2003,Motorcycles,Vintage Cars,75,70,36,Shipped,2700
+243,25/08/2003,Motorcycles,Trucks and Buses,73,68,25,Shipped,1825
+244,10/10/2003,Motorcycles,Classic Cars,47,42,8,Shipped,376
+245,4/11/2003,Motorcycles,Classic Cars,44,39,15,Shipped,660
+246,11/11/2003,Motorcycles,Motorcycles,60,55,35,Shipped,2100
+247,18/11/2003,Motorcycles,Trucks and Buses,25,20,4,Shipped,100
+248,1/12/2003,Motorcycles,Vintage Cars,84,79,40,Shipped,3360
+249,15/01/2004,Motorcycles,Planes,22,17,23,Shipped,506
+250,21/02/2004,Motorcycles,Classic Cars,85,80,42,Shipped,3570
+251,5/04/2004,Motorcycles,Planes,89,84,22,Shipped,1958
+252,18/05/2004,Motorcycles,Classic Cars,64,59,30,Shipped,1920
+253,28/06/2004,Motorcycles,Classic Cars,20,15,35,Shipped,700
+254,2/08/2004,Motorcycles,Vintage Cars,35,30,40,Shipped,1400
+255,27/08/2004,Motorcycles,Classic Cars,78,73,18,Shipped,1404
+256,30/09/2004,Motorcycles,Motorcycles,54,49,14,Shipped,756
+257,15/10/2004,Motorcycles,Vintage Cars,41,36,38,Shipped,1558
+258,3/11/2004,Motorcycles,Vintage Cars,96,91,29,Shipped,2784
+259,15/11/2004,Motorcycles,Classic Cars,87,82,15,Shipped,1305
+260,24/11/2004,Motorcycles,Classic Cars,58,53,23,Shipped,1334
+261,5/01/2005,Motorcycles,Vintage Cars,33,28,27,Shipped,891
+262,3/02/2005,Motorcycles,Trucks and Buses,45,40,9,Shipped,405
+263,3/03/2005,Motorcycles,Classic Cars,69,64,18,Shipped,1242
+264,8/04/2005,Motorcycles,Motorcycles,31,26,13,Shipped,403
+265,13/05/2005,Motorcycles,Vintage Cars,5,0,10,Disputed,50
+266,31/01/2003,Classic Cars,Classic Cars,5,0,45,Shipped,225
+267,16/04/2003,Classic Cars,Classic Cars,92,87,6,Shipped,552
+268,3/06/2003,Classic Cars,Motorcycles,78,73,17,Shipped,1326
+269,8/08/2003,Classic Cars,Classic Cars,7,2,16,Shipped,112
+270,28/09/2003,Classic Cars,Trucks and Buses,20,15,25,Shipped,500
+271,22/10/2003,Classic Cars,Trucks and Buses,60,55,19,Shipped,1140
+272,6/11/2003,Classic Cars,Classic Cars,49,44,10,Shipped,490
+273,14/11/2003,Classic Cars,Classic Cars,56,51,29,Shipped,1624
+274,26/11/2003,Classic Cars,Classic Cars,64,59,47,Shipped,3008
+275,2/01/2004,Classic Cars,Vintage Cars,94,89,19,Shipped,1786
+276,12/02/2004,Classic Cars,Vintage Cars,72,67,42,Shipped,3024
+277,15/03/2004,Classic Cars,Trains,5,0,27,Shipped,135
+278,5/05/2004,Classic Cars,Classic Cars,13,8,36,Shipped,468
+279,20/07/2004,Classic Cars,Classic Cars,100,95,19,Shipped,1900
+280,20/08/2004,Classic Cars,Trucks and Buses,33,28,19,Shipped,627
+281,9/09/2004,Classic Cars,Classic Cars,73,68,16,Shipped,1168
+282,14/10/2004,Classic Cars,Vintage Cars,18,13,24,Shipped,432
+283,22/10/2004,Classic Cars,Vintage Cars,52,47,37,Shipped,1924
+284,5/11/2004,Classic Cars,Vintage Cars,67,62,38,Shipped,2546
+285,20/11/2004,Classic Cars,Vintage Cars,88,83,40,Shipped,3520
+286,1/11/2004,Classic Cars,Classic Cars,19,14,19,Shipped,361
+287,10/12/2004,Classic Cars,Motorcycles,28,23,40,Shipped,1120
+288,26/01/2005,Classic Cars,Vintage Cars,20,15,27,Shipped,540
+289,17/02/2005,Classic Cars,Vintage Cars,72,67,14,Shipped,1008
+290,5/05/2005,Classic Cars,Classic Cars,32,27,40,Shipped,1280
+291,3/03/2003,Classic Cars,Motorcycles,8,3,36,Shipped,288
+292,8/05/2003,Classic Cars,Vintage Cars,71,66,22,Shipped,1562
+293,2/07/2003,Classic Cars,Trucks and Buses,96,91,5,Shipped,480
+294,5/09/2003,Classic Cars,Vintage Cars,85,80,15,Shipped,1275
+295,11/10/2003,Classic Cars,Vintage Cars,36,31,5,Shipped,180
+296,4/11/2003,Classic Cars,Ships,39,34,12,Shipped,468
+297,12/11/2003,Classic Cars,Planes,63,58,49,Shipped,3087
+298,20/11/2003,Classic Cars,Vintage Cars,56,51,40,Shipped,2240
+299,2/12/2003,Classic Cars,Vintage Cars,59,54,11,Shipped,649
+300,16/01/2004,Classic Cars,Classic Cars,23,18,50,Shipped,1150
+301,22/02/2004,Classic Cars,Ships,82,77,26,Shipped,2132
+302,9/04/2004,Classic Cars,Classic Cars,23,18,7,Shipped,161
+303,1/06/2004,Classic Cars,Motorcycles,88,83,40,Cancelled,3520
+304,6/07/2004,Classic Cars,Motorcycles,29,24,44,Shipped,1276
+305,2/08/2004,Classic Cars,Vintage Cars,69,64,36,Shipped,2484
+306,30/08/2004,Classic Cars,Classic Cars,33,28,45,Shipped,1485
+307,4/10/2003,Classic Cars,Vintage Cars,13,8,35,Shipped,455
+308,16/10/2004,Classic Cars,Classic Cars,50,45,13,Shipped,650
+309,3/11/2004,Classic Cars,Classic Cars,94,89,17,Shipped,1598
+310,15/11/2004,Classic Cars,Classic Cars,12,7,11,Shipped,132
+311,24/11/2004,Classic Cars,Vintage Cars,9,4,39,Shipped,351
+312,6/01/2005,Classic Cars,Vintage Cars,53,48,27,Shipped,1431
+313,8/02/2005,Classic Cars,Vintage Cars,7,2,44,Shipped,308
+314,3/03/2005,Classic Cars,Classic Cars,50,45,44,Shipped,2200
+315,17/05/2005,Classic Cars,Motorcycles,44,39,11,Shipped,484
+316,11/02/2003,Classic Cars,Trucks and Buses,34,29,32,Shipped,1088
+317,16/04/2003,Classic Cars,Vintage Cars,30,25,16,Shipped,480
+318,3/06/2003,Classic Cars,Classic Cars,4,-1,19,Shipped,76
+319,8/08/2003,Classic Cars,Classic Cars,40,35,41,Shipped,1640
+320,28/09/2003,Classic Cars,Classic Cars,7,2,50,Shipped,350
+321,22/10/2003,Classic Cars,Classic Cars,62,57,26,Shipped,1612
+322,6/11/2003,Classic Cars,Motorcycles,70,65,11,Shipped,770
+323,14/11/2003,Classic Cars,Classic Cars,65,60,4,Shipped,260
+324,26/11/2003,Classic Cars,Vintage Cars,12,7,35,Shipped,420
+325,2/01/2004,Classic Cars,Vintage Cars,69,64,35,Shipped,2415
+326,12/02/2004,Classic Cars,Motorcycles,5,0,42,Shipped,210
+327,19/03/2004,Classic Cars,Ships,30,25,4,Shipped,120
+328,5/05/2004,Classic Cars,Classic Cars,99,94,23,Shipped,2277
+329,20/07/2004,Classic Cars,Classic Cars,95,90,6,Shipped,570
+330,20/08/2004,Classic Cars,Classic Cars,31,26,47,Shipped,1457
+331,9/09/2004,Classic Cars,Classic Cars,84,79,15,Shipped,1260
+332,14/10/2004,Classic Cars,Motorcycles,4,-1,45,Shipped,180
+333,22/10/2004,Classic Cars,Vintage Cars,51,46,30,Shipped,1530
+334,5/11/2004,Classic Cars,Classic Cars,53,48,33,Shipped,1749
+335,20/11/2004,Classic Cars,Classic Cars,31,26,44,Shipped,1364
+336,1/12/2004,Classic Cars,Vintage Cars,7,2,12,Shipped,84
+337,15/12/2004,Classic Cars,Vintage Cars,20,15,25,Shipped,500
+338,26/01/2005,Classic Cars,Motorcycles,53,48,11,Shipped,583
+339,17/02/2005,Classic Cars,Classic Cars,89,84,27,Shipped,2403
+340,23/03/2005,Classic Cars,Classic Cars,21,16,21,Shipped,441
+341,5/05/2005,Classic Cars,Trucks and Buses,67,62,43,Shipped,2881
+342,3/03/2003,Classic Cars,Vintage Cars,19,14,32,Shipped,608
+343,8/05/2003,Classic Cars,Classic Cars,23,18,7,Shipped,161
+344,2/07/2003,Classic Cars,Classic Cars,51,46,6,Shipped,306
+345,5/09/2003,Classic Cars,Motorcycles,59,54,43,Shipped,2537
+346,10/10/2003,Classic Cars,Classic Cars,71,66,5,Shipped,355
+347,4/11/2003,Classic Cars,Classic Cars,84,79,9,Shipped,756
+348,12/11/2003,Classic Cars,Classic Cars,9,4,26,Shipped,234
+349,20/11/2003,Classic Cars,Vintage Cars,13,8,44,Shipped,572
+350,2/12/2003,Classic Cars,Motorcycles,47,42,12,Shipped,564
+351,15/01/2004,Classic Cars,Classic Cars,88,83,16,Shipped,1408
+352,22/02/2004,Classic Cars,Classic Cars,22,17,20,Shipped,440
+353,9/04/2004,Classic Cars,Classic Cars,75,70,9,Shipped,675
+354,1/06/2004,Classic Cars,Classic Cars,39,34,20,Cancelled,780
+355,6/07/2004,Classic Cars,Motorcycles,8,3,21,Shipped,168
+356,2/08/2004,Classic Cars,Trucks and Buses,76,71,9,Shipped,684
+357,30/08/2004,Classic Cars,Classic Cars,15,10,13,Shipped,195
+358,4/10/2003,Classic Cars,Vintage Cars,81,76,40,Shipped,3240
+359,16/10/2004,Classic Cars,Vintage Cars,26,21,10,Shipped,260
+360,3/11/2004,Classic Cars,Classic Cars,35,30,45,Shipped,1575
+361,15/11/2004,Classic Cars,Classic Cars,91,86,8,Shipped,728
+362,24/11/2004,Classic Cars,Classic Cars,40,35,39,Shipped,1560
+363,6/01/2005,Classic Cars,Classic Cars,33,28,43,Shipped,1419
+364,9/02/2005,Classic Cars,Vintage Cars,100,95,15,Shipped,1500
+365,3/03/2005,Classic Cars,Classic Cars,95,90,11,Shipped,1045
+366,17/05/2005,Classic Cars,Classic Cars,45,40,3,Shipped,135
+367,31/01/2003,Trucks and Buses,Vintage Cars,46,41,8,Shipped,368
+368,4/04/2003,Trucks and Buses,Classic Cars,33,28,17,Shipped,561
+369,3/06/2003,Trucks and Buses,Vintage Cars,88,83,17,Shipped,1496
+370,1/08/2003,Trucks and Buses,Classic Cars,48,43,15,Shipped,720
+371,21/09/2003,Trucks and Buses,Classic Cars,3,-2,41,Shipped,123
+372,22/10/2003,Trucks and Buses,Motorcycles,31,26,37,Shipped,1147
+373,6/11/2003,Trucks and Buses,Vintage Cars,85,80,7,Shipped,595
+374,14/11/2003,Trucks and Buses,Motorcycles,32,27,6,Shipped,192
+375,25/11/2003,Trucks and Buses,Vintage Cars,88,83,29,Shipped,2552
+376,9/12/2003,Trucks and Buses,Classic Cars,83,78,17,Shipped,1411
+377,10/02/2004,Trucks and Buses,Trains,76,71,39,Shipped,2964
+378,11/03/2004,Trucks and Buses,Classic Cars,52,47,43,Shipped,2236
+379,5/05/2004,Trucks and Buses,Classic Cars,87,82,41,Shipped,3567
+380,15/06/2004,Trucks and Buses,Motorcycles,79,74,13,Shipped,1027
+381,20/07/2004,Trucks and Buses,Vintage Cars,71,66,33,Shipped,2343
+382,19/08/2004,Trucks and Buses,Vintage Cars,55,50,37,Shipped,2035
+383,8/09/2004,Trucks and Buses,Trucks and Buses,25,20,39,Shipped,975
+384,13/10/2004,Trucks and Buses,Motorcycles,91,86,34,Shipped,3094
+385,22/10/2004,Trucks and Buses,Planes,4,-1,11,Shipped,44
+386,5/11/2004,Trucks and Buses,Classic Cars,57,52,27,Shipped,1539
+387,20/11/2004,Trucks and Buses,Vintage Cars,83,78,36,Shipped,2988
+388,1/12/2004,Trucks and Buses,Vintage Cars,47,42,30,Shipped,1410
+389,10/12/2004,Trucks and Buses,Trains,8,3,4,Shipped,32
+390,23/01/2005,Trucks and Buses,Trucks and Buses,21,16,49,Shipped,1029
+391,17/02/2005,Trucks and Buses,Motorcycles,47,42,16,Shipped,752
+392,3/05/2005,Trucks and Buses,Classic Cars,78,73,38,Shipped,2964
+393,31/05/2005,Trucks and Buses,Vintage Cars,8,3,49,In Process,392
+394,3/03/2003,Classic Cars,Planes,24,19,5,Shipped,120
+395,8/05/2003,Classic Cars,Classic Cars,8,3,7,Shipped,56
+396,2/07/2003,Classic Cars,Planes,4,-1,16,Shipped,64
+397,5/09/2003,Classic Cars,Planes,18,13,25,Shipped,450
+398,11/10/2003,Classic Cars,Trains,3,-2,13,Shipped,39
+399,4/11/2003,Classic Cars,Vintage Cars,39,34,8,Shipped,312
+400,12/11/2003,Classic Cars,Planes,95,90,17,Shipped,1615
+401,20/11/2003,Classic Cars,Trucks and Buses,26,21,12,Shipped,312
+402,2/12/2003,Classic Cars,Motorcycles,51,46,39,Shipped,1989
+403,16/01/2004,Classic Cars,Vintage Cars,45,40,3,Shipped,135
+404,22/02/2004,Classic Cars,Motorcycles,95,90,44,Shipped,4180
+405,12/04/2004,Classic Cars,Classic Cars,22,17,28,Shipped,616
+406,1/06/2004,Classic Cars,Vintage Cars,39,34,32,Cancelled,1248
+407,6/07/2004,Classic Cars,Motorcycles,73,68,14,Shipped,1022
+408,4/08/2004,Classic Cars,Vintage Cars,39,34,17,Shipped,663
+409,30/08/2004,Classic Cars,Classic Cars,43,38,40,Shipped,1720
+410,4/10/2003,Classic Cars,Vintage Cars,64,59,47,Shipped,3008
+411,16/10/2004,Classic Cars,Classic Cars,28,23,33,Shipped,924
+412,4/11/2004,Classic Cars,Classic Cars,62,57,7,Shipped,434
+413,15/11/2004,Classic Cars,Classic Cars,37,32,49,Shipped,1813
+414,24/11/2004,Classic Cars,Classic Cars,58,53,28,Shipped,1624
+415,6/01/2005,Classic Cars,Planes,9,4,45,Shipped,405
+416,9/02/2005,Classic Cars,Motorcycles,82,77,27,Shipped,2214
+417,3/03/2005,Classic Cars,Vintage Cars,79,74,27,Shipped,2133
+418,14/04/2005,Classic Cars,Classic Cars,34,29,3,Shipped,102
+419,17/05/2005,Classic Cars,Classic Cars,29,24,20,Shipped,580
+420,29/01/2003,Trucks and Buses,Vintage Cars,21,16,29,Shipped,609
+421,26/03/2003,Trucks and Buses,Classic Cars,47,42,17,Shipped,799
+422,28/05/2003,Trucks and Buses,Trucks and Buses,18,13,43,Shipped,774
+423,24/07/2003,Trucks and Buses,Classic Cars,30,25,39,Shipped,1170
+424,19/09/2003,Trucks and Buses,Vintage Cars,100,95,5,Shipped,500
+425,21/10/2003,Trucks and Buses,Classic Cars,76,71,5,Resolved,380
+426,6/11/2003,Trucks and Buses,Classic Cars,79,74,28,Shipped,2212
+427,13/11/2003,Trucks and Buses,Vintage Cars,29,24,30,Shipped,870
+428,25/11/2003,Trucks and Buses,Trucks and Buses,75,70,50,Shipped,3750
+429,5/12/2003,Trucks and Buses,Vintage Cars,51,46,31,Shipped,1581
+430,29/01/2004,Trucks and Buses,Vintage Cars,82,77,49,Shipped,4018
+431,10/03/2004,Trucks and Buses,Vintage Cars,46,41,46,Shipped,2116
+432,4/05/2004,Trucks and Buses,Motorcycles,67,62,32,Shipped,2144
+433,15/06/2004,Trucks and Buses,Classic Cars,39,34,16,Shipped,624
+434,19/07/2004,Trucks and Buses,Trucks and Buses,65,60,11,Shipped,715
+435,17/08/2004,Trucks and Buses,Vintage Cars,16,11,30,Shipped,480
+436,8/09/2004,Trucks and Buses,Vintage Cars,16,11,41,Shipped,656
+437,11/10/2004,Trucks and Buses,Vintage Cars,51,46,16,Shipped,816
+438,21/10/2004,Trucks and Buses,Classic Cars,50,45,17,Shipped,850
+439,4/11/2004,Trucks and Buses,Classic Cars,32,27,21,Shipped,672
+440,18/11/2004,Trucks and Buses,Classic Cars,17,12,9,Shipped,153
+441,29/11/2004,Trucks and Buses,Vintage Cars,12,7,42,Shipped,504
+442,10/12/2004,Trucks and Buses,Classic Cars,48,43,30,Shipped,1440
+443,20/01/2005,Trucks and Buses,Trucks and Buses,78,73,22,Shipped,1716
+444,17/02/2005,Trucks and Buses,Planes,65,60,11,Shipped,715
+445,9/03/2005,Trucks and Buses,Classic Cars,31,26,37,Shipped,1147
+446,1/05/2005,Trucks and Buses,Planes,100,95,5,Shipped,500
+447,31/05/2005,Trucks and Buses,Classic Cars,65,60,20,In Process,1300
+448,10/03/2003,Classic Cars,Classic Cars,26,21,31,Shipped,806
+449,8/05/2003,Classic Cars,Planes,73,68,47,Shipped,3431
+450,4/07/2003,Classic Cars,Vintage Cars,24,19,27,Shipped,648
+451,11/09/2003,Classic Cars,Vintage Cars,71,66,49,Shipped,3479
+452,17/10/2003,Classic Cars,Classic Cars,26,21,37,Shipped,962
+453,5/11/2003,Classic Cars,Vintage Cars,78,73,41,Shipped,3198
+454,12/11/2003,Classic Cars,Vintage Cars,46,41,50,Shipped,2300
+455,20/11/2003,Classic Cars,Motorcycles,37,32,45,Shipped,1665
+456,2/12/2003,Classic Cars,Classic Cars,89,84,25,Shipped,2225
+457,16/01/2004,Classic Cars,Classic Cars,21,16,43,Shipped,903
+458,22/02/2004,Classic Cars,Motorcycles,93,88,21,Shipped,1953
+459,13/04/2004,Classic Cars,Vintage Cars,12,7,15,Shipped,180
+460,1/06/2004,Classic Cars,Classic Cars,35,30,38,Cancelled,1330
+461,6/07/2004,Classic Cars,Classic Cars,21,16,35,Shipped,735
+462,6/08/2004,Classic Cars,Vintage Cars,56,51,46,Shipped,2576
+463,30/08/2004,Classic Cars,Classic Cars,38,33,8,Shipped,304
+464,5/10/2003,Classic Cars,Vintage Cars,87,82,29,Shipped,2523
+465,16/10/2004,Classic Cars,Classic Cars,59,54,40,Shipped,2360
+466,4/11/2004,Classic Cars,Vintage Cars,60,55,30,Shipped,1800
+467,17/11/2004,Classic Cars,Trucks and Buses,86,81,49,Shipped,4214
+468,24/11/2004,Classic Cars,Vintage Cars,31,26,15,Shipped,465
+469,9/12/2004,Classic Cars,Vintage Cars,52,47,35,Shipped,1820
+470,7/01/2005,Classic Cars,Classic Cars,8,3,4,Shipped,32
+471,9/02/2005,Classic Cars,Vintage Cars,29,24,31,Shipped,899
+472,4/03/2005,Classic Cars,Vintage Cars,88,83,23,Shipped,2024
+473,15/04/2005,Classic Cars,Classic Cars,39,34,39,Disputed,1521
+474,17/05/2005,Classic Cars,Classic Cars,48,43,8,Shipped,384
+475,10/01/2003,Vintage Cars,Classic Cars,96,91,32,Shipped,3072
+476,25/03/2003,Vintage Cars,Motorcycles,61,56,21,Shipped,1281
+477,21/05/2003,Vintage Cars,Trucks and Buses,33,28,40,Shipped,1320
+478,16/07/2003,Vintage Cars,Classic Cars,29,24,40,Shipped,1160
+479,12/09/2003,Vintage Cars,Motorcycles,22,17,8,Shipped,176
+480,18/10/2003,Vintage Cars,Trucks and Buses,40,35,20,Shipped,800
+481,5/11/2003,Vintage Cars,Classic Cars,42,37,28,Shipped,1176
+482,12/11/2003,Vintage Cars,Vintage Cars,63,58,31,Shipped,1953
+483,21/11/2003,Vintage Cars,Classic Cars,46,41,50,Shipped,2300
+484,3/12/2003,Vintage Cars,Classic Cars,97,92,23,Shipped,2231
+485,29/01/2004,Vintage Cars,Motorcycles,77,72,35,Shipped,2695
+486,2/03/2004,Vintage Cars,Classic Cars,74,69,8,Shipped,592
+487,29/04/2004,Vintage Cars,Classic Cars,88,83,38,Shipped,3344
+488,8/06/2004,Vintage Cars,Classic Cars,42,37,22,Shipped,924
+489,17/08/2004,Vintage Cars,Classic Cars,95,90,46,Shipped,4370
+490,3/09/2004,Vintage Cars,Vintage Cars,5,0,28,Shipped,140
+491,11/10/2004,Vintage Cars,Vintage Cars,49,44,35,Shipped,1715
+492,21/10/2004,Vintage Cars,Classic Cars,90,85,50,Shipped,4500
+493,4/11/2004,Vintage Cars,Vintage Cars,64,59,46,Shipped,2944
+494,17/11/2004,Vintage Cars,Classic Cars,14,9,13,Shipped,182
+495,29/11/2004,Vintage Cars,Vintage Cars,42,37,40,Shipped,1680
+496,9/12/2004,Vintage Cars,Vintage Cars,26,21,7,Shipped,182
+497,20/01/2005,Vintage Cars,Trucks and Buses,68,63,43,Shipped,2924
+498,16/02/2005,Vintage Cars,Classic Cars,30,25,45,Shipped,1350
+499,9/03/2005,Vintage Cars,Vintage Cars,66,61,47,Shipped,3102
+500,30/05/2005,Vintage Cars,Classic Cars,51,46,8,In Process,408
+501,10/01/2003,Vintage Cars,Trucks and Buses,23,18,43,Shipped,989
+502,25/03/2003,Vintage Cars,Vintage Cars,51,46,3,Shipped,153
+503,28/05/2003,Vintage Cars,Classic Cars,91,86,16,Shipped,1456
+504,16/07/2003,Vintage Cars,Vintage Cars,62,57,39,Shipped,2418
+505,12/09/2003,Vintage Cars,Classic Cars,80,75,19,Shipped,1520
+506,18/10/2003,Vintage Cars,Vintage Cars,27,22,8,Shipped,216
+507,5/11/2003,Vintage Cars,Vintage Cars,32,27,32,Shipped,1024
+508,12/11/2003,Vintage Cars,Planes,62,57,11,Shipped,682
+509,21/11/2003,Vintage Cars,Trucks and Buses,46,41,25,Shipped,1150
+510,3/12/2003,Vintage Cars,Vintage Cars,6,1,50,Shipped,300
+511,29/01/2004,Vintage Cars,Trucks and Buses,47,42,9,Shipped,423
+512,2/03/2004,Vintage Cars,Trucks and Buses,19,14,23,Shipped,437
+513,29/04/2004,Vintage Cars,Classic Cars,64,59,4,Shipped,256
+514,8/06/2004,Vintage Cars,Classic Cars,7,2,39,Shipped,273
+515,17/08/2004,Vintage Cars,Vintage Cars,52,47,9,Shipped,468
+516,3/09/2004,Vintage Cars,Vintage Cars,16,11,28,Shipped,448
+517,11/10/2004,Vintage Cars,Classic Cars,90,85,7,Shipped,630
+518,21/10/2004,Vintage Cars,Classic Cars,73,68,44,Shipped,3212
+519,4/11/2004,Vintage Cars,Classic Cars,29,24,16,Shipped,464
+520,17/11/2004,Vintage Cars,Vintage Cars,71,66,9,Shipped,639
+521,29/11/2004,Vintage Cars,Vintage Cars,8,3,12,Shipped,96
+522,9/12/2004,Vintage Cars,Vintage Cars,75,70,42,Shipped,3150
+523,20/01/2005,Vintage Cars,Trucks and Buses,7,2,26,Shipped,182
+524,17/02/2005,Vintage Cars,Vintage Cars,39,34,5,Shipped,195
+525,9/03/2005,Vintage Cars,Classic Cars,100,95,44,Shipped,4400
+526,30/05/2005,Vintage Cars,Vintage Cars,60,55,45,In Process,2700
+527,18/03/2003,Classic Cars,Classic Cars,10,5,44,Shipped,440
+528,20/05/2003,Classic Cars,Classic Cars,14,9,4,Shipped,56
+529,10/07/2003,Classic Cars,Vintage Cars,48,43,35,Shipped,1680
+530,11/09/2003,Classic Cars,Vintage Cars,27,22,8,Shipped,216
+531,17/10/2003,Classic Cars,Motorcycles,21,16,18,Shipped,378
+532,5/11/2003,Classic Cars,Motorcycles,59,54,32,Shipped,1888
+533,12/11/2003,Classic Cars,Vintage Cars,26,21,31,Shipped,806
+534,20/11/2003,Classic Cars,Trucks and Buses,88,83,35,Shipped,3080
+535,2/12/2003,Classic Cars,Trucks and Buses,63,58,11,Shipped,693
+536,16/01/2004,Classic Cars,Classic Cars,73,68,20,Shipped,1460
+537,26/02/2004,Classic Cars,Motorcycles,13,8,7,Shipped,91
+538,13/04/2004,Classic Cars,Trucks and Buses,41,36,47,Shipped,1927
+539,1/06/2004,Classic Cars,Motorcycles,6,1,34,Cancelled,204
+540,6/07/2004,Classic Cars,Classic Cars,98,93,26,Shipped,2548
+541,6/08/2004,Classic Cars,Trucks and Buses,40,35,31,Shipped,1240
+542,1/09/2004,Classic Cars,Vintage Cars,74,69,7,Shipped,518
+543,5/10/2003,Classic Cars,Vintage Cars,3,-2,36,Shipped,108
+544,16/10/2004,Classic Cars,Classic Cars,45,40,34,Shipped,1530
+545,4/11/2004,Classic Cars,Trucks and Buses,19,14,14,Shipped,266
+546,17/11/2004,Classic Cars,Classic Cars,98,93,12,Shipped,1176
+547,24/11/2004,Classic Cars,Vintage Cars,63,58,33,Shipped,2079
+548,12/01/2005,Classic Cars,Trains,28,23,9,Resolved,252
+549,10/02/2005,Classic Cars,Classic Cars,15,10,8,Shipped,120
+550,22/04/2005,Classic Cars,Vintage Cars,32,27,6,On Hold,192
+551,17/05/2005,Classic Cars,Trucks and Buses,38,33,49,Shipped,1862
+552,17/02/2003,Planes,Vintage Cars,95,90,44,Shipped,4180
+553,28/04/2003,Planes,Vintage Cars,58,53,35,Shipped,2030
+554,16/06/2003,Planes,Classic Cars,35,30,20,Shipped,700
+555,10/08/2003,Planes,Classic Cars,100,95,39,Shipped,3900
+556,6/10/2003,Planes,Classic Cars,100,95,26,Shipped,2600
+557,23/10/2003,Planes,Vintage Cars,78,73,23,Cancelled,1794
+558,8/11/2003,Planes,Vintage Cars,94,89,16,Shipped,1504
+559,14/11/2003,Planes,Vintage Cars,43,38,4,Shipped,172
+560,27/11/2003,Planes,Vintage Cars,57,52,6,Shipped,342
+561,12/01/2004,Planes,Classic Cars,81,76,26,Shipped,2106
+562,19/02/2004,Planes,Trucks and Buses,56,51,21,Shipped,1176
+563,11/05/2004,Planes,Vintage Cars,67,62,5,Shipped,335
+564,24/06/2004,Planes,Classic Cars,48,43,32,Cancelled,1536
+565,21/07/2004,Planes,Vintage Cars,97,92,48,Shipped,4656
+566,21/08/2004,Planes,Motorcycles,91,86,43,Shipped,3913
+567,15/09/2004,Planes,Classic Cars,52,47,15,Shipped,780
+568,14/10/2004,Planes,Vintage Cars,60,55,3,Shipped,180
+569,1/11/2004,Planes,Motorcycles,86,81,15,Shipped,1290
+570,10/11/2004,Planes,Classic Cars,91,86,16,Resolved,1456
+571,22/11/2004,Planes,Vintage Cars,88,83,18,Shipped,1584
+572,3/12/2004,Planes,Motorcycles,26,21,32,Shipped,832
+573,31/01/2005,Planes,Classic Cars,91,86,3,Shipped,273
+574,1/03/2005,Planes,Classic Cars,80,75,22,Resolved,1760
+575,30/03/2005,Planes,Classic Cars,93,88,6,Shipped,558
+576,1/04/2005,Planes,Classic Cars,6,1,20,Shipped,120
+577,10/05/2005,Planes,Classic Cars,19,14,21,Shipped,399
+578,6/01/2003,Vintage Cars,Classic Cars,21,16,39,Shipped,819
+579,18/03/2003,Vintage Cars,Classic Cars,29,24,11,Shipped,319
+580,21/05/2003,Vintage Cars,Vintage Cars,39,34,9,Shipped,351
+581,12/09/2003,Vintage Cars,Motorcycles,5,0,28,Shipped,140
+582,18/10/2003,Vintage Cars,Ships,68,63,35,Shipped,2380
+583,5/11/2003,Vintage Cars,Classic Cars,85,80,8,Shipped,680
+584,12/11/2003,Vintage Cars,Trucks and Buses,50,45,26,Shipped,1300
+585,21/11/2003,Vintage Cars,Trains,13,8,34,Shipped,442
+586,2/12/2003,Vintage Cars,Vintage Cars,16,11,7,Shipped,112
+587,26/01/2004,Vintage Cars,Motorcycles,96,91,18,Shipped,1728
+588,2/03/2004,Vintage Cars,Classic Cars,32,27,23,Shipped,736
+589,13/04/2004,Vintage Cars,Classic Cars,63,58,32,Shipped,2016
+590,17/08/2004,Vintage Cars,Trucks and Buses,80,75,12,Shipped,960
+591,1/09/2004,Vintage Cars,Classic Cars,48,43,15,Shipped,720
+592,6/10/2003,Vintage Cars,Classic Cars,18,13,26,Shipped,468
+593,21/10/2004,Vintage Cars,Classic Cars,67,62,25,Shipped,1675
+594,17/11/2004,Vintage Cars,Vintage Cars,44,39,17,Shipped,748
+595,25/11/2004,Vintage Cars,Classic Cars,31,26,17,Shipped,527
+596,12/01/2005,Vintage Cars,Classic Cars,59,54,17,Resolved,1003
+597,10/02/2005,Vintage Cars,Trucks and Buses,65,60,27,Shipped,1755
+598,22/04/2005,Vintage Cars,Classic Cars,29,24,38,On Hold,1102
+599,29/05/2005,Vintage Cars,Vintage Cars,42,37,3,In Process,126
+600,3/03/2003,Classic Cars,Vintage Cars,57,52,29,Shipped,1653
+601,8/05/2003,Classic Cars,Classic Cars,74,69,22,Shipped,1628
+602,2/07/2003,Classic Cars,Trucks and Buses,30,25,22,Shipped,660
+603,5/09/2003,Classic Cars,Classic Cars,43,38,34,Shipped,1462
+604,11/10/2003,Classic Cars,Ships,30,25,37,Shipped,1110
+605,4/11/2003,Classic Cars,Classic Cars,6,1,36,Shipped,216
+606,12/11/2003,Classic Cars,Ships,56,51,45,Shipped,2520
+607,20/11/2003,Classic Cars,Classic Cars,98,93,24,Shipped,2352
+608,2/12/2003,Classic Cars,Classic Cars,76,71,26,Shipped,1976
+609,16/01/2004,Classic Cars,Classic Cars,19,14,11,Shipped,209
+610,22/02/2004,Classic Cars,Classic Cars,43,38,22,Shipped,946
+611,12/04/2004,Classic Cars,Motorcycles,43,38,29,Shipped,1247
+612,1/06/2004,Classic Cars,Classic Cars,83,78,4,Cancelled,332
+613,6/07/2004,Classic Cars,Trains,4,-1,32,Shipped,128
+614,6/08/2004,Classic Cars,Vintage Cars,25,20,20,Shipped,500
+615,30/08/2004,Classic Cars,Classic Cars,75,70,19,Shipped,1425
+616,4/10/2003,Classic Cars,Trains,30,25,13,Shipped,390
+617,16/10/2004,Classic Cars,Classic Cars,58,53,14,Shipped,812
+618,4/11/2004,Classic Cars,Classic Cars,26,21,11,Shipped,286
+619,15/11/2004,Classic Cars,Classic Cars,42,37,43,Shipped,1806
+620,24/11/2004,Classic Cars,Classic Cars,90,85,10,Shipped,900
+621,6/01/2005,Classic Cars,Vintage Cars,40,35,30,Shipped,1200
+622,9/02/2005,Classic Cars,Classic Cars,32,27,16,Shipped,512
+623,3/03/2005,Classic Cars,Vintage Cars,51,46,32,Shipped,1632
+624,14/04/2005,Classic Cars,Vintage Cars,83,78,21,Shipped,1743
+625,17/05/2005,Classic Cars,Trains,79,74,12,Shipped,948
+626,10/03/2003,Classic Cars,Vintage Cars,70,65,41,Shipped,2870
+627,8/05/2003,Classic Cars,Vintage Cars,69,64,25,Shipped,1725
+628,4/07/2003,Classic Cars,Classic Cars,16,11,13,Shipped,208
+629,11/09/2003,Classic Cars,Motorcycles,91,86,50,Shipped,4550
+630,17/10/2003,Classic Cars,Classic Cars,93,88,26,Shipped,2418
+631,5/11/2003,Classic Cars,Classic Cars,51,46,46,Shipped,2346
+632,12/11/2003,Classic Cars,Vintage Cars,43,38,19,Shipped,817
+633,20/11/2003,Classic Cars,Classic Cars,24,19,34,Shipped,816
+634,2/12/2003,Classic Cars,Trucks and Buses,100,95,36,Shipped,3600
+635,16/01/2004,Classic Cars,Vintage Cars,92,87,22,Shipped,2024
+636,26/02/2004,Classic Cars,Classic Cars,68,63,29,Shipped,1972
+637,13/04/2004,Classic Cars,Classic Cars,61,56,14,Shipped,854
+638,1/06/2004,Classic Cars,Motorcycles,8,3,49,Cancelled,392
+639,6/07/2004,Classic Cars,Classic Cars,59,54,40,Shipped,2360
+640,6/08/2004,Classic Cars,Classic Cars,57,52,39,Shipped,2223
+641,30/08/2004,Classic Cars,Vintage Cars,63,58,45,Shipped,2835
+642,5/10/2003,Classic Cars,Classic Cars,96,91,8,Shipped,768
+643,16/10/2004,Classic Cars,Classic Cars,42,37,13,Shipped,546
+644,4/11/2004,Classic Cars,Classic Cars,61,56,18,Shipped,1098
+645,17/11/2004,Classic Cars,Classic Cars,55,50,35,Shipped,1925
+646,24/11/2004,Classic Cars,Classic Cars,55,50,5,Shipped,275
+647,9/12/2004,Classic Cars,Vintage Cars,94,89,42,Shipped,3948
+648,10/01/2005,Classic Cars,Vintage Cars,61,56,23,Shipped,1403
+649,9/02/2005,Classic Cars,Classic Cars,80,75,30,Shipped,2400
+650,4/03/2005,Classic Cars,Trucks and Buses,25,20,41,Shipped,1025
+651,15/04/2005,Classic Cars,Vintage Cars,64,59,42,Disputed,2688
+652,17/05/2005,Classic Cars,Vintage Cars,12,7,18,Shipped,216
+653,31/01/2003,Classic Cars,Motorcycles,41,36,40,Shipped,1640
+654,4/04/2003,Classic Cars,Vintage Cars,67,62,31,Shipped,2077
+655,3/06/2003,Classic Cars,Classic Cars,54,49,11,Shipped,594
+656,1/08/2003,Classic Cars,Vintage Cars,73,68,48,Shipped,3504
+657,21/09/2003,Classic Cars,Classic Cars,95,90,4,Shipped,380
+658,22/10/2003,Classic Cars,Classic Cars,92,87,18,Shipped,1656
+659,6/11/2003,Classic Cars,Vintage Cars,17,12,44,Shipped,748
+660,14/11/2003,Classic Cars,Motorcycles,59,54,21,Shipped,1239
+661,25/11/2003,Classic Cars,Trains,31,26,37,Shipped,1147
+662,9/12/2003,Classic Cars,Classic Cars,7,2,20,Shipped,140
+663,10/02/2004,Classic Cars,Classic Cars,53,48,30,Shipped,1590
+664,15/03/2004,Classic Cars,Trucks and Buses,47,42,4,Shipped,188
+665,5/05/2004,Classic Cars,Classic Cars,55,50,4,Shipped,220
+666,15/06/2004,Classic Cars,Classic Cars,72,67,29,Shipped,2088
+667,20/07/2004,Classic Cars,Motorcycles,49,44,5,Shipped,245
+668,20/08/2004,Classic Cars,Classic Cars,96,91,25,Shipped,2400
+669,8/09/2004,Classic Cars,Vintage Cars,90,85,4,Shipped,360
+670,13/10/2004,Classic Cars,Vintage Cars,43,38,11,Shipped,473
+671,22/10/2004,Classic Cars,Classic Cars,79,74,44,Shipped,3476
+672,5/11/2004,Classic Cars,Vintage Cars,47,42,11,Shipped,517
+673,20/11/2004,Classic Cars,Planes,47,42,6,Shipped,282
+674,1/12/2004,Classic Cars,Classic Cars,45,40,8,Shipped,360
+675,10/12/2004,Classic Cars,Trucks and Buses,51,46,43,Shipped,2193
+676,23/01/2005,Classic Cars,Classic Cars,21,16,31,Shipped,651
+677,17/02/2005,Classic Cars,Classic Cars,62,57,17,Shipped,1054
+678,3/05/2005,Classic Cars,Trucks and Buses,100,95,4,Shipped,400
+679,31/05/2005,Classic Cars,Classic Cars,94,89,20,In Process,1880
+680,6/01/2003,Vintage Cars,Vintage Cars,47,42,38,Shipped,1786
+681,18/03/2003,Vintage Cars,Classic Cars,55,50,7,Shipped,385
+682,21/05/2003,Vintage Cars,Trucks and Buses,95,90,15,Shipped,1425
+683,12/09/2003,Vintage Cars,Vintage Cars,33,28,50,Shipped,1650
+684,18/10/2003,Vintage Cars,Classic Cars,83,78,49,Shipped,4067
+685,5/11/2003,Vintage Cars,Planes,89,84,40,Shipped,3560
+686,12/11/2003,Vintage Cars,Classic Cars,83,78,41,Shipped,3403
+687,21/11/2003,Vintage Cars,Motorcycles,16,11,24,Shipped,384
+688,2/12/2003,Vintage Cars,Classic Cars,31,26,40,Shipped,1240
+689,26/01/2004,Vintage Cars,Trains,16,11,48,Shipped,768
+690,2/03/2004,Vintage Cars,Ships,44,39,40,Shipped,1760
+691,13/04/2004,Vintage Cars,Trucks and Buses,32,27,23,Shipped,736
+692,17/08/2004,Vintage Cars,Motorcycles,59,54,35,Shipped,2065
+693,1/09/2004,Vintage Cars,Classic Cars,25,20,29,Shipped,725
+694,6/10/2004,Vintage Cars,Trucks and Buses,97,92,12,Shipped,1164
+695,21/10/2004,Vintage Cars,Classic Cars,81,76,9,Shipped,729
+696,17/11/2004,Vintage Cars,Vintage Cars,38,33,41,Shipped,1558
+697,25/11/2004,Vintage Cars,Planes,49,44,11,Shipped,539
+698,12/01/2005,Vintage Cars,Classic Cars,79,74,47,Resolved,3713
+699,10/02/2005,Vintage Cars,Classic Cars,64,59,39,Shipped,2496
+700,22/04/2005,Vintage Cars,Classic Cars,97,92,37,On Hold,3589
+701,29/05/2005,Vintage Cars,Classic Cars,25,20,35,In Process,875
+702,31/01/2003,Trucks and Buses,Vintage Cars,91,86,31,Shipped,2821
+703,1/04/2003,Trucks and Buses,Classic Cars,5,0,28,Shipped,140
+704,3/06/2003,Trucks and Buses,Classic Cars,62,57,44,Shipped,2728
+705,1/08/2003,Trucks and Buses,Classic Cars,100,95,37,Shipped,3700
+706,21/09/2003,Trucks and Buses,Ships,94,89,30,Shipped,2820
+707,22/10/2003,Trucks and Buses,Trucks and Buses,11,6,39,Shipped,429
+708,6/11/2003,Trucks and Buses,Trucks and Buses,21,16,38,Shipped,798
+709,14/11/2003,Trucks and Buses,Classic Cars,20,15,25,Shipped,500
+710,25/11/2003,Trucks and Buses,Vintage Cars,7,2,17,Shipped,119
+711,9/12/2003,Trucks and Buses,Vintage Cars,14,9,40,Shipped,560
+712,11/03/2004,Trucks and Buses,Vintage Cars,72,67,12,Shipped,864
+713,5/05/2004,Trucks and Buses,Planes,80,75,38,Shipped,3040
+714,15/06/2004,Trucks and Buses,Trucks and Buses,7,2,10,Shipped,70
+715,20/07/2004,Trucks and Buses,Classic Cars,14,9,43,Shipped,602
+716,19/08/2004,Trucks and Buses,Classic Cars,83,78,32,Shipped,2656
+717,8/09/2004,Trucks and Buses,Vintage Cars,3,-2,18,Shipped,54
+718,13/10/2004,Trucks and Buses,Planes,33,28,15,Shipped,495
+719,22/10/2004,Trucks and Buses,Vintage Cars,22,17,24,Shipped,528
+720,5/11/2004,Trucks and Buses,Vintage Cars,68,63,33,Shipped,2244
+721,19/11/2004,Trucks and Buses,Classic Cars,36,31,43,On Hold,1548
+722,1/12/2004,Trucks and Buses,Ships,66,61,35,Shipped,2310
+723,10/12/2004,Trucks and Buses,Classic Cars,39,34,42,Shipped,1638
+724,20/01/2005,Trucks and Buses,Vintage Cars,38,33,17,Shipped,646
+725,22/02/2005,Trucks and Buses,Classic Cars,61,56,25,Shipped,1525
+726,3/05/2005,Trucks and Buses,Classic Cars,65,60,41,Shipped,2665
+727,31/05/2005,Trucks and Buses,Classic Cars,87,82,28,In Process,2436
+728,9/01/2003,Vintage Cars,Classic Cars,55,50,35,Shipped,1925
+729,18/03/2003,Vintage Cars,Classic Cars,45,40,6,Shipped,270
+730,21/05/2003,Vintage Cars,Classic Cars,81,76,23,Shipped,1863
+731,12/09/2003,Vintage Cars,Trucks and Buses,9,4,28,Shipped,252
+732,18/10/2003,Vintage Cars,Trucks and Buses,95,90,37,Shipped,3515
+733,5/11/2003,Vintage Cars,Classic Cars,22,17,18,Shipped,396
+734,12/11/2003,Vintage Cars,Vintage Cars,51,46,26,Shipped,1326
+735,21/11/2003,Vintage Cars,Planes,81,76,27,Shipped,2187
+736,2/12/2003,Vintage Cars,Classic Cars,88,83,13,Shipped,1144
+737,26/01/2004,Vintage Cars,Classic Cars,87,82,38,Shipped,3306
+738,2/03/2004,Vintage Cars,Classic Cars,69,64,31,Shipped,2139
+739,26/04/2004,Vintage Cars,Classic Cars,75,70,20,Shipped,1500
+740,17/08/2004,Vintage Cars,Planes,66,61,9,Shipped,594
+741,1/09/2004,Vintage Cars,Classic Cars,81,76,25,Shipped,2025
+742,11/10/2004,Vintage Cars,Vintage Cars,5,0,12,Shipped,60
+743,21/10/2004,Vintage Cars,Ships,60,55,31,Shipped,1860
+744,4/11/2004,Vintage Cars,Classic Cars,8,3,8,Shipped,64
+745,17/11/2004,Vintage Cars,Vintage Cars,93,88,42,Shipped,3906
+746,25/11/2004,Vintage Cars,Classic Cars,82,77,39,Shipped,3198
+747,9/12/2004,Vintage Cars,Planes,39,34,35,Shipped,1365
+748,12/01/2005,Vintage Cars,Trains,56,51,4,Resolved,224
+749,16/02/2005,Vintage Cars,Vintage Cars,29,24,48,Shipped,1392
+750,4/03/2005,Vintage Cars,Classic Cars,41,36,3,Shipped,123
+751,23/04/2005,Vintage Cars,Motorcycles,50,45,48,Shipped,2400
+752,29/05/2005,Vintage Cars,Classic Cars,59,54,14,In Process,826
+753,29/01/2003,Trucks and Buses,Classic Cars,54,49,47,Shipped,2538
+754,1/04/2003,Trucks and Buses,Vintage Cars,76,71,32,Shipped,2432
+755,28/05/2003,Trucks and Buses,Planes,96,91,48,Shipped,4608
+756,24/07/2003,Trucks and Buses,Ships,38,33,26,Shipped,988
+757,21/09/2003,Trucks and Buses,Classic Cars,16,11,24,Shipped,384
+758,22/10/2003,Trucks and Buses,Motorcycles,55,50,44,Shipped,2420
+759,6/11/2003,Trucks and Buses,Vintage Cars,31,26,16,Shipped,496
+760,14/11/2003,Trucks and Buses,Classic Cars,19,14,29,Shipped,551
+761,25/11/2003,Trucks and Buses,Trucks and Buses,70,65,15,Shipped,1050
+762,9/12/2003,Trucks and Buses,Classic Cars,64,59,16,Shipped,1024
+763,4/02/2004,Trucks and Buses,Planes,81,76,3,Shipped,243
+764,11/03/2004,Trucks and Buses,Trucks and Buses,98,93,37,Shipped,3626
+765,5/05/2004,Trucks and Buses,Vintage Cars,47,42,11,Shipped,517
+766,15/06/2004,Trucks and Buses,Motorcycles,58,53,23,Shipped,1334
+767,20/07/2004,Trucks and Buses,Classic Cars,56,51,50,Shipped,2800
+768,19/08/2004,Trucks and Buses,Classic Cars,98,93,16,Shipped,1568
+769,8/09/2004,Trucks and Buses,Classic Cars,73,68,47,Shipped,3431
+770,13/10/2004,Trucks and Buses,Classic Cars,23,18,24,Shipped,552
+771,22/10/2004,Trucks and Buses,Vintage Cars,10,5,37,Shipped,370
+772,4/11/2004,Trucks and Buses,Classic Cars,37,32,24,Shipped,888
+773,19/11/2004,Trucks and Buses,Classic Cars,30,25,25,On Hold,750
+774,29/11/2004,Trucks and Buses,Classic Cars,84,79,34,Shipped,2856
+775,10/12/2004,Trucks and Buses,Classic Cars,61,56,29,Shipped,1769
+776,20/01/2005,Trucks and Buses,Motorcycles,8,3,10,Shipped,80
+777,17/02/2005,Trucks and Buses,Vintage Cars,21,16,12,Shipped,252
+778,9/03/2005,Trucks and Buses,Vintage Cars,47,42,9,Shipped,423
+779,3/05/2005,Trucks and Buses,Vintage Cars,11,6,38,Shipped,418
+780,31/05/2005,Trucks and Buses,Planes,83,78,46,In Process,3818
+781,17/02/2003,Planes,Vintage Cars,100,95,4,Shipped,400
+782,29/04/2003,Planes,Vintage Cars,90,85,6,Shipped,540
+783,27/06/2003,Planes,Classic Cars,15,10,15,Shipped,225
+784,25/08/2003,Planes,Vintage Cars,42,37,10,Shipped,420
+785,28/10/2003,Planes,Vintage Cars,91,86,27,Shipped,2457
+786,12/01/2004,Planes,Vintage Cars,11,6,20,Shipped,220
+787,20/02/2004,Planes,Classic Cars,72,67,4,Shipped,288
+788,2/04/2004,Planes,Trucks and Buses,49,44,31,Shipped,1519
+789,11/05/2004,Planes,Vintage Cars,28,23,8,Shipped,224
+790,28/06/2004,Planes,Planes,42,37,6,Shipped,252
+791,23/07/2004,Planes,Vintage Cars,82,77,31,Shipped,2542
+792,21/08/2004,Planes,Classic Cars,83,78,42,Shipped,3486
+793,16/09/2004,Planes,Trucks and Buses,27,22,36,Shipped,972
+794,15/10/2004,Planes,Trucks and Buses,67,62,16,Shipped,1072
+795,2/11/2004,Planes,Motorcycles,23,18,22,Shipped,506
+796,10/11/2004,Planes,Vintage Cars,11,6,45,Resolved,495
+797,23/11/2004,Planes,Classic Cars,85,80,10,Shipped,850
+798,4/12/2004,Planes,Classic Cars,33,28,29,Shipped,957
+799,2/02/2005,Planes,Classic Cars,36,31,26,Shipped,936
+800,1/03/2005,Planes,Classic Cars,94,89,18,Resolved,1692
+801,30/03/2005,Planes,Classic Cars,100,95,6,Shipped,600
+802,3/04/2005,Planes,Classic Cars,72,67,5,On Hold,360
+803,10/05/2005,Planes,Classic Cars,53,48,13,Shipped,689
+804,24/02/2003,Motorcycles,Classic Cars,48,43,30,Shipped,1440
+805,29/04/2003,Motorcycles,Planes,83,78,25,Shipped,2075
+806,1/07/2003,Motorcycles,Vintage Cars,30,25,45,Shipped,1350
+807,25/08/2003,Motorcycles,Vintage Cars,87,82,23,Shipped,2001
+808,10/10/2003,Motorcycles,Classic Cars,23,18,23,Shipped,529
+809,28/10/2003,Motorcycles,Planes,10,5,26,Shipped,260
+810,11/11/2003,Motorcycles,Vintage Cars,9,4,6,Shipped,54
+811,18/11/2003,Motorcycles,Trucks and Buses,89,84,16,Shipped,1424
+812,1/12/2003,Motorcycles,Classic Cars,88,83,22,Shipped,1936
+813,12/01/2004,Motorcycles,Classic Cars,23,18,11,Shipped,253
+814,20/02/2004,Motorcycles,Planes,59,54,49,Shipped,2891
+815,3/04/2004,Motorcycles,Trucks and Buses,61,56,23,Shipped,1403
+816,18/05/2004,Motorcycles,Classic Cars,50,45,49,Shipped,2450
+817,28/06/2004,Motorcycles,Classic Cars,67,62,24,Shipped,1608
+818,23/07/2004,Motorcycles,Classic Cars,58,53,23,Shipped,1334
+819,27/08/2004,Motorcycles,Vintage Cars,54,49,14,Shipped,756
+820,27/09/2004,Motorcycles,Classic Cars,26,21,16,Shipped,416
+821,15/10/2004,Motorcycles,Classic Cars,77,72,44,Shipped,3388
+822,2/11/2004,Motorcycles,Trucks and Buses,21,16,25,Shipped,525
+823,15/11/2004,Motorcycles,Ships,93,88,11,Shipped,1023
+824,23/11/2004,Motorcycles,Planes,93,88,4,Shipped,372
+825,5/01/2005,Motorcycles,Classic Cars,83,78,21,Shipped,1743
+826,2/02/2005,Motorcycles,Classic Cars,45,40,16,Shipped,720
+827,3/03/2005,Motorcycles,Classic Cars,33,28,7,Shipped,231
+828,7/04/2005,Motorcycles,Classic Cars,23,18,19,Shipped,437
+829,13/05/2005,Motorcycles,Classic Cars,18,13,30,Disputed,540
+830,9/01/2003,Vintage Cars,Classic Cars,96,91,23,Shipped,2208
+831,18/03/2003,Vintage Cars,Vintage Cars,30,25,38,Shipped,1140
+832,21/05/2003,Vintage Cars,Classic Cars,3,-2,39,Shipped,117
+833,16/07/2003,Vintage Cars,Trucks and Buses,21,16,47,Shipped,987
+834,12/09/2003,Vintage Cars,Vintage Cars,85,80,41,Shipped,3485
+835,18/10/2003,Vintage Cars,Vintage Cars,26,21,27,Shipped,702
+836,5/11/2003,Vintage Cars,Motorcycles,47,42,19,Shipped,893
+837,12/11/2003,Vintage Cars,Classic Cars,12,7,20,Shipped,240
+838,21/11/2003,Vintage Cars,Classic Cars,35,30,49,Shipped,1715
+839,3/12/2003,Vintage Cars,Vintage Cars,81,76,7,Shipped,567
+840,26/01/2004,Vintage Cars,Classic Cars,63,58,28,Shipped,1764
+841,2/03/2004,Vintage Cars,Classic Cars,83,78,11,Shipped,913
+842,29/04/2004,Vintage Cars,Vintage Cars,62,57,29,Shipped,1798
+843,4/06/2004,Vintage Cars,Classic Cars,18,13,23,Shipped,414
+844,17/08/2004,Vintage Cars,Classic Cars,73,68,6,Shipped,438
+845,3/09/2004,Vintage Cars,Classic Cars,27,22,6,Shipped,162
+846,11/10/2004,Vintage Cars,Classic Cars,61,56,4,Shipped,244
+847,21/10/2004,Vintage Cars,Classic Cars,100,95,34,Shipped,3400
+848,4/11/2004,Vintage Cars,Vintage Cars,72,67,38,Shipped,2736
+849,17/11/2004,Vintage Cars,Vintage Cars,72,67,12,Shipped,864
+850,29/11/2004,Vintage Cars,Planes,60,55,26,Shipped,1560
+851,9/12/2004,Vintage Cars,Classic Cars,94,89,14,Shipped,1316
+852,12/01/2005,Vintage Cars,Vintage Cars,6,1,46,Resolved,276
+853,16/02/2005,Vintage Cars,Classic Cars,70,65,10,Shipped,700
+854,4/03/2005,Vintage Cars,Classic Cars,27,22,49,Shipped,1323
+855,29/05/2005,Vintage Cars,Vintage Cars,39,34,6,In Process,234
+856,10/03/2003,Classic Cars,Classic Cars,54,49,12,Shipped,648
+857,20/05/2003,Classic Cars,Classic Cars,96,91,42,Shipped,4032
+858,10/07/2003,Classic Cars,Planes,10,5,15,Shipped,150
+859,11/09/2003,Classic Cars,Classic Cars,93,88,22,Shipped,2046
+860,17/10/2003,Classic Cars,Trucks and Buses,68,63,45,Shipped,3060
+861,5/11/2003,Classic Cars,Vintage Cars,65,60,20,Shipped,1300
+862,12/11/2003,Classic Cars,Vintage Cars,54,49,33,Shipped,1782
+863,20/11/2003,Classic Cars,Classic Cars,28,23,43,Shipped,1204
+864,2/12/2003,Classic Cars,Classic Cars,29,24,43,Shipped,1247
+865,16/01/2004,Classic Cars,Classic Cars,97,92,16,Shipped,1552
+866,26/02/2004,Classic Cars,Classic Cars,15,10,13,Shipped,195
+867,13/04/2004,Classic Cars,Classic Cars,43,38,6,Shipped,258
+868,1/06/2004,Classic Cars,Motorcycles,20,15,33,Cancelled,660
+869,6/07/2004,Classic Cars,Vintage Cars,80,75,47,Shipped,3760
+870,6/08/2004,Classic Cars,Classic Cars,79,74,9,Shipped,711
+871,30/08/2004,Classic Cars,Vintage Cars,29,24,7,Shipped,203
+872,5/10/2003,Classic Cars,Classic Cars,56,51,3,Shipped,168
+873,16/10/2004,Classic Cars,Classic Cars,39,34,19,Shipped,741
+874,4/11/2004,Classic Cars,Vintage Cars,4,-1,9,Shipped,36
+875,17/11/2004,Classic Cars,Trucks and Buses,98,93,14,Shipped,1372
+876,24/11/2004,Classic Cars,Classic Cars,93,88,43,Shipped,3999
+877,10/01/2005,Classic Cars,Classic Cars,77,72,12,Shipped,924
+878,10/02/2005,Classic Cars,Vintage Cars,13,8,5,Shipped,65
+879,22/04/2005,Classic Cars,Classic Cars,6,1,26,On Hold,156
+880,17/05/2005,Classic Cars,Vintage Cars,91,86,30,Shipped,2730
+881,29/01/2003,Vintage Cars,Motorcycles,81,76,20,Shipped,1620
+882,24/03/2003,Vintage Cars,Trucks and Buses,43,38,50,Shipped,2150
+883,28/05/2003,Vintage Cars,Trucks and Buses,36,31,8,Shipped,288
+884,16/07/2003,Vintage Cars,Classic Cars,61,56,35,Shipped,2135
+885,19/09/2003,Vintage Cars,Vintage Cars,68,63,3,Shipped,204
+886,20/10/2003,Vintage Cars,Vintage Cars,35,30,30,Shipped,1050
+887,6/11/2003,Vintage Cars,Classic Cars,4,-1,20,Shipped,80
+888,13/11/2003,Vintage Cars,Classic Cars,14,9,42,Shipped,588
+889,21/11/2003,Vintage Cars,Vintage Cars,20,15,26,Shipped,520
+890,5/12/2003,Vintage Cars,Motorcycles,29,24,19,Shipped,551
+891,29/01/2004,Vintage Cars,Trucks and Buses,14,9,4,Shipped,56
+892,10/03/2004,Vintage Cars,Classic Cars,9,4,39,Shipped,351
+893,29/04/2004,Vintage Cars,Classic Cars,100,95,18,Shipped,1800
+894,14/06/2004,Vintage Cars,Vintage Cars,80,75,39,Shipped,3120
+895,19/07/2004,Vintage Cars,Vintage Cars,35,30,40,Shipped,1400
+896,17/08/2004,Vintage Cars,Vintage Cars,57,52,45,Shipped,2565
+897,8/09/2004,Vintage Cars,Classic Cars,20,15,43,Shipped,860
+898,11/10/2004,Vintage Cars,Classic Cars,92,87,38,Shipped,3496
+899,21/10/2004,Vintage Cars,Classic Cars,17,12,17,Shipped,289
+900,4/11/2004,Vintage Cars,Classic Cars,68,63,10,Shipped,680
+901,18/11/2004,Vintage Cars,Classic Cars,36,31,49,Shipped,1764
+902,29/11/2004,Vintage Cars,Classic Cars,12,7,40,Shipped,480
+903,10/12/2004,Vintage Cars,Classic Cars,7,2,32,Shipped,224
+904,20/01/2005,Vintage Cars,Motorcycles,93,88,21,Shipped,1953
+905,17/02/2005,Vintage Cars,Vintage Cars,76,71,14,Shipped,1064
+906,9/03/2005,Vintage Cars,Vintage Cars,19,14,15,Shipped,285
+907,30/05/2005,Vintage Cars,Vintage Cars,75,70,23,In Process,1725
+908,29/01/2003,Vintage Cars,Ships,39,34,9,Shipped,351
+909,25/03/2003,Vintage Cars,Trucks and Buses,61,56,27,Shipped,1647
+910,28/05/2003,Vintage Cars,Classic Cars,18,13,33,Shipped,594
+911,16/07/2003,Vintage Cars,Trucks and Buses,98,93,16,Shipped,1568
+912,19/09/2003,Vintage Cars,Vintage Cars,18,13,27,Shipped,486
+913,20/10/2003,Vintage Cars,Classic Cars,17,12,13,Shipped,221
+914,5/11/2003,Vintage Cars,Vintage Cars,53,48,42,Shipped,2226
+915,13/11/2003,Vintage Cars,Vintage Cars,44,39,46,Shipped,2024
+916,21/11/2003,Vintage Cars,Vintage Cars,28,23,26,Shipped,728
+917,5/12/2003,Vintage Cars,Vintage Cars,25,20,49,Shipped,1225
+918,29/01/2004,Vintage Cars,Vintage Cars,28,23,48,Shipped,1344
+919,10/03/2004,Vintage Cars,Classic Cars,66,61,26,Shipped,1716
+920,29/04/2004,Vintage Cars,Trucks and Buses,29,24,27,Shipped,783
+921,14/06/2004,Vintage Cars,Ships,56,51,32,Shipped,1792
+922,16/07/2004,Vintage Cars,Vintage Cars,87,82,47,Shipped,4089
+923,17/08/2004,Vintage Cars,Classic Cars,9,4,33,Shipped,297
+924,8/09/2004,Vintage Cars,Classic Cars,23,18,8,Shipped,184
+925,11/10/2004,Vintage Cars,Trucks and Buses,63,58,37,Shipped,2331
+926,21/10/2004,Vintage Cars,Vintage Cars,71,66,10,Shipped,710
+927,4/11/2004,Vintage Cars,Classic Cars,70,65,37,Shipped,2590
+928,17/11/2004,Vintage Cars,Classic Cars,54,49,32,Shipped,1728
+929,29/11/2004,Vintage Cars,Vintage Cars,47,42,32,Shipped,1504
+930,10/12/2004,Vintage Cars,Classic Cars,91,86,38,Shipped,3458
+931,20/01/2005,Vintage Cars,Trucks and Buses,71,66,28,Shipped,1988
+932,17/02/2005,Vintage Cars,Classic Cars,10,5,16,Shipped,160
+933,10/03/2005,Vintage Cars,Motorcycles,61,56,26,Shipped,1586
+934,30/05/2005,Vintage Cars,Classic Cars,46,41,18,In Process,828
+935,17/02/2003,Ships,Classic Cars,25,20,27,Shipped,675
+936,28/04/2003,Ships,Classic Cars,59,54,13,Shipped,767
+937,16/06/2003,Ships,Vintage Cars,80,75,44,Shipped,3520
+938,10/08/2003,Ships,Trains,5,0,43,Shipped,215
+939,6/10/2003,Ships,Trucks and Buses,9,4,14,Shipped,126
+940,23/10/2003,Ships,Classic Cars,86,81,4,Cancelled,344
+941,8/11/2003,Ships,Classic Cars,88,83,48,Shipped,4224
+942,14/11/2003,Ships,Motorcycles,68,63,22,Shipped,1496
+943,26/11/2003,Ships,Motorcycles,24,19,5,Shipped,120
+944,9/01/2004,Ships,Vintage Cars,18,13,19,Shipped,342
+945,19/02/2004,Ships,Trucks and Buses,36,31,24,Shipped,864
+946,7/05/2004,Ships,Vintage Cars,35,30,20,Cancelled,700
+947,24/06/2004,Ships,Vintage Cars,14,9,15,Cancelled,210
+948,21/07/2004,Ships,Classic Cars,91,86,50,Shipped,4550
+949,20/08/2004,Ships,Classic Cars,23,18,41,Shipped,943
+950,15/09/2004,Ships,Classic Cars,95,90,20,Shipped,1900
+951,14/10/2004,Ships,Classic Cars,79,74,44,Shipped,3476
+952,1/11/2004,Ships,Vintage Cars,81,76,32,Shipped,2592
+953,10/11/2004,Ships,Trains,92,87,20,Resolved,1840
+954,22/11/2004,Ships,Classic Cars,85,80,26,Shipped,2210
+955,2/12/2004,Ships,Classic Cars,43,38,10,Shipped,430
+956,31/01/2005,Ships,Classic Cars,99,94,20,Shipped,1980
+957,1/03/2005,Ships,Trucks and Buses,20,15,14,Resolved,280
+958,30/03/2005,Ships,Vintage Cars,84,79,23,Shipped,1932
+959,1/04/2005,Ships,Motorcycles,43,38,47,Shipped,2021
+960,6/05/2005,Ships,Motorcycles,47,42,11,On Hold,517
+961,29/01/2003,Vintage Cars,Classic Cars,77,72,27,Shipped,2079
+962,25/03/2003,Vintage Cars,Vintage Cars,22,17,26,Shipped,572
+963,28/05/2003,Vintage Cars,Vintage Cars,33,28,25,Shipped,825
+964,16/07/2003,Vintage Cars,Classic Cars,61,56,6,Shipped,366
+965,19/09/2003,Vintage Cars,Classic Cars,86,81,14,Shipped,1204
+966,20/10/2003,Vintage Cars,Classic Cars,6,1,32,Shipped,192
+967,5/11/2003,Vintage Cars,Classic Cars,4,-1,50,Shipped,200
+968,13/11/2003,Vintage Cars,Vintage Cars,75,70,29,Shipped,2175
+969,21/11/2003,Vintage Cars,Classic Cars,62,57,22,Shipped,1364
+970,5/12/2003,Vintage Cars,Vintage Cars,67,62,4,Shipped,268
+971,29/01/2004,Vintage Cars,Classic Cars,53,48,43,Shipped,2279
+972,10/03/2004,Vintage Cars,Classic Cars,83,78,29,Shipped,2407
+973,29/04/2004,Vintage Cars,Classic Cars,13,8,42,Shipped,546
+974,14/06/2004,Vintage Cars,Vintage Cars,13,8,14,Shipped,182
+975,19/07/2004,Vintage Cars,Vintage Cars,44,39,18,Shipped,792
+976,17/08/2004,Vintage Cars,Trucks and Buses,21,16,21,Shipped,441
+977,8/09/2004,Vintage Cars,Trucks and Buses,80,75,11,Shipped,880
+978,11/10/2004,Vintage Cars,Vintage Cars,54,49,49,Shipped,2646
+979,21/10/2004,Vintage Cars,Motorcycles,26,21,40,Shipped,1040
+980,4/11/2004,Vintage Cars,Vintage Cars,46,41,4,Shipped,184
+981,17/11/2004,Vintage Cars,Classic Cars,57,52,48,Shipped,2736
+982,29/11/2004,Vintage Cars,Vintage Cars,60,55,44,Shipped,2640
+983,10/12/2004,Vintage Cars,Planes,4,-1,12,Shipped,48
+984,20/01/2005,Vintage Cars,Planes,14,9,41,Shipped,574
+985,17/02/2005,Vintage Cars,Trucks and Buses,79,74,45,Shipped,3555
+986,10/03/2005,Vintage Cars,Classic Cars,62,57,14,Shipped,868
+987,30/05/2005,Vintage Cars,Vintage Cars,82,77,13,In Process,1066
+988,11/02/2003,Vintage Cars,Motorcycles,36,31,34,Shipped,1224
+989,16/04/2003,Vintage Cars,Vintage Cars,42,37,39,Shipped,1638
+990,6/06/2003,Vintage Cars,Motorcycles,23,18,13,Shipped,299
+991,8/08/2003,Vintage Cars,Motorcycles,96,91,44,Shipped,4224
+992,28/09/2003,Vintage Cars,Classic Cars,13,8,47,Shipped,611
+993,21/10/2003,Vintage Cars,Vintage Cars,30,25,31,Shipped,930
+994,7/11/2003,Vintage Cars,Trucks and Buses,97,92,29,Shipped,2813
+995,14/11/2003,Vintage Cars,Trucks and Buses,52,47,41,Shipped,2132
+996,26/11/2003,Vintage Cars,Vintage Cars,79,74,47,Shipped,3713
+997,2/01/2004,Vintage Cars,Vintage Cars,20,15,30,Shipped,600
+998,18/02/2004,Vintage Cars,Trucks and Buses,81,76,31,Shipped,2511
+999,20/03/2004,Vintage Cars,Motorcycles,97,92,8,Shipped,776
+1000,7/05/2004,Vintage Cars,Classic Cars,26,21,8,Cancelled,208
+1001,21/07/2004,Vintage Cars,Motorcycles,77,72,17,Shipped,1309
+1002,20/08/2004,Vintage Cars,Motorcycles,16,11,21,Shipped,336
+1003,9/09/2004,Vintage Cars,Trucks and Buses,80,75,35,Shipped,2800
+1004,14/10/2004,Vintage Cars,Motorcycles,42,37,25,Shipped,1050
+1005,22/10/2004,Vintage Cars,Classic Cars,40,35,14,Shipped,560
+1006,5/11/2004,Vintage Cars,Trucks and Buses,83,78,4,Shipped,332
+1007,20/11/2004,Vintage Cars,Classic Cars,59,54,32,Shipped,1888
+1008,2/12/2004,Vintage Cars,Vintage Cars,98,93,42,Shipped,4116
+1009,26/01/2005,Vintage Cars,Motorcycles,15,10,19,Shipped,285
+1010,22/02/2005,Vintage Cars,Classic Cars,56,51,11,Shipped,616
+1011,23/03/2005,Vintage Cars,Trucks and Buses,79,74,25,Shipped,1975
+1012,6/05/2005,Vintage Cars,Classic Cars,32,27,28,On Hold,896
+1013,31/01/2003,Classic Cars,Motorcycles,15,10,21,Shipped,315
+1014,10/03/2003,Classic Cars,Classic Cars,13,8,32,Shipped,416
+1015,1/04/2003,Classic Cars,Classic Cars,92,87,45,Shipped,4140
+1016,8/05/2003,Classic Cars,Classic Cars,92,87,10,Shipped,920
+1017,3/06/2003,Classic Cars,Trucks and Buses,29,24,50,Shipped,1450
+1018,4/07/2003,Classic Cars,Classic Cars,41,36,16,Shipped,656
+1019,1/08/2003,Classic Cars,Classic Cars,56,51,3,Shipped,168
+1020,11/09/2003,Classic Cars,Classic Cars,43,38,9,Shipped,387
+1021,21/09/2003,Classic Cars,Vintage Cars,17,12,42,Shipped,714
+1022,11/10/2003,Classic Cars,Classic Cars,9,4,20,Shipped,180
+1023,22/10/2003,Classic Cars,Vintage Cars,98,93,25,Shipped,2450
+1024,5/11/2003,Classic Cars,Ships,41,36,37,Shipped,1517
+1025,6/11/2003,Classic Cars,Classic Cars,78,73,25,Shipped,1950
+1026,12/11/2003,Classic Cars,Vintage Cars,35,30,27,Shipped,945
+1027,14/11/2003,Classic Cars,Planes,16,11,22,Shipped,352
+1028,20/11/2003,Classic Cars,Classic Cars,30,25,41,Shipped,1230
+1029,25/11/2003,Classic Cars,Motorcycles,25,20,13,Shipped,325
+1030,2/12/2003,Classic Cars,Motorcycles,98,93,31,Shipped,3038
+1031,9/12/2003,Classic Cars,Motorcycles,22,17,39,Shipped,858
+1032,16/01/2004,Classic Cars,Trucks and Buses,31,26,47,Shipped,1457
+1033,22/02/2004,Classic Cars,Classic Cars,50,45,35,Shipped,1750
+1034,11/03/2004,Classic Cars,Motorcycles,80,75,46,Shipped,3680
+1035,12/04/2004,Classic Cars,Classic Cars,44,39,10,Shipped,440
+1036,5/05/2004,Classic Cars,Classic Cars,72,67,39,Shipped,2808
+1037,1/06/2004,Classic Cars,Vintage Cars,34,29,14,Cancelled,476
+1038,15/06/2004,Classic Cars,Classic Cars,20,15,30,Shipped,600
+1039,6/07/2004,Classic Cars,Vintage Cars,62,57,38,Shipped,2356
+1040,20/07/2004,Classic Cars,Ships,43,38,40,Shipped,1720
+1041,6/08/2004,Classic Cars,Classic Cars,7,2,31,Shipped,217
+1042,19/08/2004,Classic Cars,Motorcycles,12,7,30,Shipped,360
+1043,30/08/2004,Classic Cars,Motorcycles,78,73,4,Shipped,312
+1044,8/09/2004,Classic Cars,Classic Cars,44,39,8,Shipped,352
+1045,5/10/2003,Classic Cars,Trucks and Buses,74,69,13,Shipped,962
+1046,13/10/2004,Classic Cars,Motorcycles,28,23,26,Shipped,728
+1047,16/10/2004,Classic Cars,Trucks and Buses,100,95,48,Shipped,4800
+1048,22/10/2004,Classic Cars,Classic Cars,73,68,22,Shipped,1606
+1049,4/11/2004,Classic Cars,Vintage Cars,81,76,28,Shipped,2268
+1050,5/11/2004,Classic Cars,Classic Cars,23,18,29,Shipped,667
+1051,17/11/2004,Classic Cars,Vintage Cars,99,94,6,Shipped,594
+1052,19/11/2004,Classic Cars,Motorcycles,38,33,44,On Hold,1672
+1053,24/11/2004,Classic Cars,Trains,3,-2,35,Shipped,105
+1054,1/12/2004,Classic Cars,Classic Cars,41,36,24,Shipped,984
+1055,10/12/2004,Classic Cars,Classic Cars,61,56,35,Shipped,2135
+1056,10/01/2005,Classic Cars,Motorcycles,21,16,29,Shipped,609
+1057,20/01/2005,Classic Cars,Classic Cars,72,67,22,Shipped,1584
+1058,9/02/2005,Classic Cars,Motorcycles,43,38,29,Shipped,1247
+1059,22/02/2005,Classic Cars,Vintage Cars,62,57,46,Shipped,2852
+1060,15/03/2005,Classic Cars,Trucks and Buses,81,76,13,Shipped,1053
+1061,14/04/2005,Classic Cars,Vintage Cars,75,70,14,Shipped,1050
+1062,3/05/2005,Classic Cars,Trucks and Buses,5,0,13,Shipped,65
+1063,17/05/2005,Classic Cars,Classic Cars,97,92,35,Shipped,3395
+1064,31/05/2005,Classic Cars,Classic Cars,25,20,34,In Process,850
+1065,11/02/2003,Trains,Classic Cars,85,80,50,Shipped,4250
+1066,16/04/2003,Trains,Trucks and Buses,7,2,33,Shipped,231
+1067,6/06/2003,Trains,Vintage Cars,91,86,18,Shipped,1638
+1068,8/08/2003,Trains,Classic Cars,19,14,46,Shipped,874
+1069,28/09/2003,Trains,Vintage Cars,73,68,12,Shipped,876
+1070,22/10/2003,Trains,Trucks and Buses,3,-2,38,Shipped,114
+1071,7/11/2003,Trains,Classic Cars,15,10,35,Shipped,525
+1072,14/11/2003,Trains,Vintage Cars,74,69,14,Shipped,1036
+1073,26/11/2003,Trains,Vintage Cars,39,34,46,Shipped,1794
+1074,2/01/2004,Trains,Ships,67,62,4,Shipped,268
+1075,18/02/2004,Trains,Vintage Cars,60,55,42,Shipped,2520
+1076,20/03/2004,Trains,Trucks and Buses,69,64,27,Shipped,1863
+1077,7/05/2004,Trains,Vintage Cars,52,47,24,Cancelled,1248
+1078,21/07/2004,Trains,Ships,94,89,10,Shipped,940
+1079,20/08/2004,Trains,Vintage Cars,100,95,46,Shipped,4600
+1080,9/09/2004,Trains,Classic Cars,73,68,23,Shipped,1679
+1081,14/10/2004,Trains,Classic Cars,83,78,29,Shipped,2407
+1082,22/10/2004,Trains,Trucks and Buses,78,73,22,Shipped,1716
+1083,9/11/2004,Trains,Vintage Cars,72,67,10,Shipped,720
+1084,20/11/2004,Trains,Trucks and Buses,79,74,6,Shipped,474
+1085,2/12/2004,Trains,Vintage Cars,36,31,30,Shipped,1080
+1086,26/01/2005,Trains,Trucks and Buses,18,13,29,Shipped,522
+1087,22/02/2005,Trains,Classic Cars,6,1,10,Shipped,60
+1088,23/03/2005,Trains,Motorcycles,58,53,7,Shipped,406
+1089,6/05/2005,Trains,Classic Cars,67,62,36,On Hold,2412
+1090,3/03/2003,Classic Cars,Vintage Cars,79,74,49,Shipped,3871
+1091,8/05/2003,Classic Cars,Classic Cars,22,17,21,Shipped,462
+1092,2/07/2003,Classic Cars,Vintage Cars,29,24,37,Shipped,1073
+1093,5/09/2003,Classic Cars,Classic Cars,32,27,28,Shipped,896
+1094,10/10/2003,Classic Cars,Ships,71,66,32,Shipped,2272
+1095,4/11/2003,Classic Cars,Trucks and Buses,98,93,47,Shipped,4606
+1096,12/11/2003,Classic Cars,Classic Cars,28,23,14,Shipped,392
+1097,20/11/2003,Classic Cars,Classic Cars,30,25,17,Shipped,510
+1098,2/12/2003,Classic Cars,Classic Cars,13,8,14,Shipped,182
+1099,15/01/2004,Classic Cars,Motorcycles,29,24,26,Shipped,754
+1100,22/02/2004,Classic Cars,Classic Cars,37,32,31,Shipped,1147
+1101,9/04/2004,Classic Cars,Classic Cars,40,35,28,Shipped,1120
+1102,26/05/2004,Classic Cars,Vintage Cars,5,0,13,Shipped,65
+1103,2/07/2004,Classic Cars,Classic Cars,90,85,4,Shipped,360
+1104,2/08/2004,Classic Cars,Classic Cars,41,36,47,Shipped,1927
+1105,30/08/2004,Classic Cars,Classic Cars,43,38,41,Shipped,1763
+1106,4/10/2003,Classic Cars,Classic Cars,31,26,24,Shipped,744
+1107,16/10/2004,Classic Cars,Motorcycles,55,50,38,Shipped,2090
+1108,3/11/2004,Classic Cars,Classic Cars,39,34,31,Shipped,1209
+1109,15/11/2004,Classic Cars,Vintage Cars,43,38,45,Shipped,1935
+1110,24/11/2004,Classic Cars,Ships,94,89,43,Shipped,4042
+1111,6/01/2005,Classic Cars,Classic Cars,61,56,24,Shipped,1464
+1112,10/02/2005,Classic Cars,Vintage Cars,95,90,22,Shipped,2090
+1113,4/03/2005,Classic Cars,Classic Cars,33,28,32,Shipped,1056
+1114,29/01/2003,Vintage Cars,Classic Cars,86,81,36,Shipped,3096
+1115,25/03/2003,Vintage Cars,Vintage Cars,99,94,45,Shipped,4455
+1116,28/05/2003,Vintage Cars,Motorcycles,60,55,34,Shipped,2040
+1117,16/07/2003,Vintage Cars,Motorcycles,54,49,50,Shipped,2700
+1118,12/09/2003,Vintage Cars,Classic Cars,44,39,46,Shipped,2024
+1119,20/10/2003,Vintage Cars,Vintage Cars,9,4,23,Shipped,207
+1120,5/11/2003,Vintage Cars,Vintage Cars,34,29,40,Shipped,1360
+1121,12/11/2003,Vintage Cars,Planes,63,58,18,Shipped,1134
+1122,21/11/2003,Vintage Cars,Vintage Cars,94,89,15,Shipped,1410
+1123,5/12/2003,Vintage Cars,Trucks and Buses,71,66,33,Shipped,2343
+1124,29/01/2004,Vintage Cars,Vintage Cars,95,90,38,Shipped,3610
+1125,2/03/2004,Vintage Cars,Trucks and Buses,92,87,11,Shipped,1012
+1126,29/04/2004,Vintage Cars,Motorcycles,61,56,42,Shipped,2562
+1127,14/06/2004,Vintage Cars,Classic Cars,33,28,46,Shipped,1518
+1128,17/08/2004,Vintage Cars,Trucks and Buses,3,-2,42,Shipped,126
+1129,7/09/2004,Vintage Cars,Classic Cars,17,12,17,Shipped,289
+1130,11/10/2004,Vintage Cars,Classic Cars,4,-1,16,Shipped,64
+1131,21/10/2004,Vintage Cars,Classic Cars,68,63,30,Shipped,2040
+1132,5/11/2004,Vintage Cars,Classic Cars,86,81,39,Shipped,3354
+1133,18/11/2004,Vintage Cars,Vintage Cars,90,85,50,Shipped,4500
+1134,29/11/2004,Vintage Cars,Classic Cars,88,83,33,Shipped,2904
+1135,10/12/2004,Vintage Cars,Classic Cars,15,10,15,Shipped,225
+1136,20/01/2005,Vintage Cars,Classic Cars,24,19,9,Shipped,216
+1137,17/02/2005,Vintage Cars,Vintage Cars,34,29,21,Shipped,714
+1138,10/03/2005,Vintage Cars,Classic Cars,7,2,13,Shipped,91
+1139,30/05/2005,Vintage Cars,Classic Cars,94,89,13,In Process,1222
+1140,3/03/2003,Classic Cars,Classic Cars,16,11,35,Shipped,560
+1141,8/05/2003,Classic Cars,Vintage Cars,8,3,32,Shipped,256
+1142,2/07/2003,Classic Cars,Classic Cars,94,89,46,Shipped,4324
+1143,5/09/2003,Classic Cars,Classic Cars,60,55,5,Shipped,300
+1144,10/10/2003,Classic Cars,Trucks and Buses,65,60,39,Shipped,2535
+1145,4/11/2003,Classic Cars,Classic Cars,58,53,18,Shipped,1044
+1146,12/11/2003,Classic Cars,Classic Cars,65,60,24,Shipped,1560
+1147,20/11/2003,Classic Cars,Vintage Cars,61,56,21,Shipped,1281
+1148,2/12/2003,Classic Cars,Classic Cars,96,91,24,Shipped,2304
+1149,15/01/2004,Classic Cars,Trains,90,85,14,Shipped,1260
+1150,22/02/2004,Classic Cars,Classic Cars,94,89,10,Shipped,940
+1151,9/04/2004,Classic Cars,Trucks and Buses,75,70,15,Shipped,1125
+1152,26/05/2004,Classic Cars,Motorcycles,79,74,28,Shipped,2212
+1153,2/07/2004,Classic Cars,Classic Cars,73,68,48,Shipped,3504
+1154,2/08/2004,Classic Cars,Vintage Cars,21,16,28,Shipped,588
+1155,30/08/2004,Classic Cars,Vintage Cars,36,31,21,Shipped,756
+1156,4/10/2003,Classic Cars,Vintage Cars,46,41,45,Shipped,2070
+1157,16/10/2004,Classic Cars,Classic Cars,96,91,5,Shipped,480
+1158,3/11/2004,Classic Cars,Classic Cars,28,23,43,Shipped,1204
+1159,16/11/2004,Classic Cars,Classic Cars,72,67,8,Shipped,576
+1160,24/11/2004,Classic Cars,Vintage Cars,72,67,49,Shipped,3528
+1161,7/12/2004,Classic Cars,Motorcycles,19,14,3,Shipped,57
+1162,6/01/2005,Classic Cars,Motorcycles,8,3,49,Shipped,392
+1163,10/02/2005,Classic Cars,Vintage Cars,7,2,50,Shipped,350
+1164,4/03/2005,Classic Cars,Vintage Cars,42,37,20,Shipped,840
+1165,10/03/2003,Classic Cars,Motorcycles,17,12,12,Shipped,204
+1166,20/05/2003,Classic Cars,Motorcycles,75,70,49,Shipped,3675
+1167,10/07/2003,Classic Cars,Trucks and Buses,97,92,25,Shipped,2425
+1168,11/09/2003,Classic Cars,Motorcycles,91,86,19,Shipped,1729
+1169,17/10/2003,Classic Cars,Planes,82,77,11,Shipped,902
+1170,5/11/2003,Classic Cars,Classic Cars,40,35,4,Shipped,160
+1171,12/11/2003,Classic Cars,Vintage Cars,78,73,32,Shipped,2496
+1172,20/11/2003,Classic Cars,Vintage Cars,18,13,45,Shipped,810
+1173,2/12/2003,Classic Cars,Vintage Cars,60,55,32,Shipped,1920
+1174,16/01/2004,Classic Cars,Classic Cars,24,19,50,Shipped,1200
+1175,26/02/2004,Classic Cars,Vintage Cars,15,10,12,Shipped,180
+1176,13/04/2004,Classic Cars,Classic Cars,35,30,13,Shipped,455
+1177,1/06/2004,Classic Cars,Classic Cars,3,-2,42,Cancelled,126
+1178,6/07/2004,Classic Cars,Trucks and Buses,10,5,6,Shipped,60
+1179,6/08/2004,Classic Cars,Classic Cars,74,69,13,Shipped,962
+1180,30/08/2004,Classic Cars,Classic Cars,44,39,15,Shipped,660
+1181,5/10/2003,Classic Cars,Vintage Cars,62,57,25,Shipped,1550
+1182,16/10/2004,Classic Cars,Classic Cars,99,94,9,Shipped,891
+1183,4/11/2004,Classic Cars,Classic Cars,6,1,8,Shipped,48
+1184,17/11/2004,Classic Cars,Vintage Cars,50,45,13,Shipped,650
+1185,24/11/2004,Classic Cars,Trucks and Buses,37,32,7,Shipped,259
+1186,12/01/2005,Classic Cars,Planes,25,20,22,Resolved,550
+1187,10/02/2005,Classic Cars,Trucks and Buses,12,7,10,Shipped,120
+1188,15/04/2005,Classic Cars,Classic Cars,10,5,25,Disputed,250
+1189,17/05/2005,Classic Cars,Classic Cars,69,64,35,Shipped,2415
+1190,3/03/2003,Motorcycles,Vintage Cars,85,80,20,Shipped,1700
+1191,8/05/2003,Motorcycles,Vintage Cars,22,17,11,Shipped,242
+1192,2/07/2003,Motorcycles,Classic Cars,59,54,22,Shipped,1298
+1193,3/09/2003,Motorcycles,Classic Cars,36,31,19,Shipped,684
+1194,10/10/2003,Motorcycles,Trucks and Buses,7,2,17,Shipped,119
+1195,4/11/2003,Motorcycles,Vintage Cars,91,86,38,Shipped,3458
+1196,11/11/2003,Motorcycles,Trucks and Buses,75,70,36,Shipped,2700
+1197,20/11/2003,Motorcycles,Motorcycles,62,57,8,Shipped,496
+1198,15/01/2004,Motorcycles,Vintage Cars,14,9,48,Shipped,672
+1199,21/02/2004,Motorcycles,Classic Cars,83,78,44,Shipped,3652
+1200,5/04/2004,Motorcycles,Motorcycles,97,92,5,Shipped,485
+1201,26/05/2004,Motorcycles,Classic Cars,3,-2,44,Shipped,132
+1202,30/06/2004,Motorcycles,Classic Cars,94,89,45,Shipped,4230
+1203,2/08/2004,Motorcycles,Classic Cars,25,20,17,Shipped,425
+1204,28/08/2004,Motorcycles,Classic Cars,88,83,10,Shipped,880
+1205,30/09/2004,Motorcycles,Classic Cars,9,4,45,Shipped,405
+1206,16/10/2004,Motorcycles,Motorcycles,67,62,47,Shipped,3149
+1207,3/11/2004,Motorcycles,Classic Cars,70,65,20,Shipped,1400
+1208,16/11/2004,Motorcycles,Vintage Cars,11,6,4,Shipped,44
+1209,24/11/2004,Motorcycles,Classic Cars,31,26,26,Shipped,806
+1210,7/12/2004,Motorcycles,Classic Cars,46,41,29,Shipped,1334
+1211,6/01/2005,Motorcycles,Classic Cars,15,10,33,Shipped,495
+1212,10/02/2005,Motorcycles,Trains,90,85,3,Shipped,270
+1213,4/03/2005,Motorcycles,Vintage Cars,99,94,49,Shipped,4851
+1214,8/04/2005,Motorcycles,Trucks and Buses,58,53,9,Shipped,522
+1215,17/02/2003,Vintage Cars,Classic Cars,63,58,18,Shipped,1134
+1216,28/04/2003,Vintage Cars,Classic Cars,70,65,18,Shipped,1260
+1217,16/06/2003,Vintage Cars,Classic Cars,16,11,11,Shipped,176
+1218,10/08/2003,Vintage Cars,Motorcycles,84,79,34,Shipped,2856
+1219,6/10/2003,Vintage Cars,Classic Cars,21,16,50,Shipped,1050
+1220,23/10/2003,Vintage Cars,Classic Cars,70,65,46,Cancelled,3220
+1221,8/11/2003,Vintage Cars,Classic Cars,66,61,50,Shipped,3300
+1222,14/11/2003,Vintage Cars,Vintage Cars,95,90,30,Shipped,2850
+1223,26/11/2003,Vintage Cars,Classic Cars,95,90,44,Shipped,4180
+1224,9/01/2004,Vintage Cars,Classic Cars,46,41,28,Shipped,1288
+1225,19/02/2004,Vintage Cars,Vintage Cars,29,24,30,Shipped,870
+1226,8/05/2004,Vintage Cars,Motorcycles,82,77,10,Shipped,820
+1227,24/06/2004,Vintage Cars,Classic Cars,19,14,9,Cancelled,171
+1228,21/07/2004,Vintage Cars,Vintage Cars,11,6,22,Shipped,242
+1229,20/08/2004,Vintage Cars,Trucks and Buses,74,69,23,Shipped,1702
+1230,15/09/2004,Vintage Cars,Classic Cars,85,80,25,Shipped,2125
+1231,14/10/2004,Vintage Cars,Classic Cars,84,79,32,Shipped,2688
+1232,1/11/2004,Vintage Cars,Classic Cars,73,68,43,Shipped,3139
+1233,12/11/2004,Vintage Cars,Classic Cars,62,57,30,Shipped,1860
+1234,22/11/2004,Vintage Cars,Vintage Cars,62,57,44,Shipped,2728
+1235,3/12/2004,Vintage Cars,Vintage Cars,93,88,20,Shipped,1860
+1236,31/01/2005,Vintage Cars,Classic Cars,61,56,3,Shipped,183
+1237,1/03/2005,Vintage Cars,Trucks and Buses,71,66,46,Resolved,3266
+1238,30/03/2005,Vintage Cars,Motorcycles,89,84,18,Shipped,1602
+1239,1/04/2005,Vintage Cars,Trucks and Buses,37,32,24,Shipped,888
+1240,9/05/2005,Vintage Cars,Classic Cars,9,4,37,Disputed,333
+1241,31/01/2003,Classic Cars,Vintage Cars,89,84,38,Shipped,3382
+1242,16/04/2003,Classic Cars,Vintage Cars,33,28,21,Shipped,693
+1243,3/06/2003,Classic Cars,Motorcycles,89,84,3,Shipped,267
+1244,8/08/2003,Classic Cars,Classic Cars,81,76,9,Shipped,729
+1245,25/09/2003,Classic Cars,Classic Cars,60,55,13,Shipped,780
+1246,22/10/2003,Classic Cars,Vintage Cars,11,6,33,Shipped,363
+1247,6/11/2003,Classic Cars,Vintage Cars,88,83,38,Shipped,3344
+1248,14/11/2003,Classic Cars,Classic Cars,38,33,29,Shipped,1102
+1249,26/11/2003,Classic Cars,Motorcycles,5,0,15,Shipped,75
+1250,9/12/2003,Classic Cars,Trucks and Buses,59,54,38,Shipped,2242
+1251,12/02/2004,Classic Cars,Vintage Cars,89,84,23,Shipped,2047
+1252,15/03/2004,Classic Cars,Classic Cars,24,19,26,Shipped,624
+1253,5/05/2004,Classic Cars,Classic Cars,3,-2,15,Shipped,45
+1254,20/07/2004,Classic Cars,Classic Cars,3,-2,6,Shipped,18
+1255,20/08/2004,Classic Cars,Classic Cars,71,66,19,Shipped,1349
+1256,8/09/2004,Classic Cars,Vintage Cars,84,79,46,Shipped,3864
+1257,14/10/2004,Classic Cars,Classic Cars,15,10,42,Shipped,630
+1258,22/10/2004,Classic Cars,Classic Cars,87,82,6,Shipped,522
+1259,5/11/2004,Classic Cars,Motorcycles,13,8,9,Shipped,117
+1260,21/11/2004,Classic Cars,Trucks and Buses,34,29,46,Shipped,1564
+1261,1/12/2004,Classic Cars,Trucks and Buses,32,27,14,Shipped,448
+1262,10/12/2004,Classic Cars,Motorcycles,66,61,11,Shipped,726
+1263,26/01/2005,Classic Cars,Classic Cars,22,17,32,Shipped,704
+1264,22/02/2005,Classic Cars,Classic Cars,73,68,37,Shipped,2701
+1265,15/03/2005,Classic Cars,Vintage Cars,97,92,5,Shipped,485
+1266,5/05/2005,Classic Cars,Motorcycles,63,58,7,Shipped,441
+1267,6/01/2003,Vintage Cars,Vintage Cars,94,89,38,Shipped,3572
+1268,18/03/2003,Vintage Cars,Vintage Cars,55,50,12,Shipped,660
+1269,21/05/2003,Vintage Cars,Motorcycles,43,38,24,Shipped,1032
+1270,11/09/2003,Vintage Cars,Classic Cars,23,18,14,Shipped,322
+1271,18/10/2003,Vintage Cars,Vintage Cars,12,7,21,Shipped,252
+1272,5/11/2003,Vintage Cars,Motorcycles,55,50,49,Shipped,2695
+1273,12/11/2003,Vintage Cars,Classic Cars,22,17,50,Shipped,1100
+1274,21/11/2003,Vintage Cars,Classic Cars,55,50,6,Shipped,330
+1275,2/12/2003,Vintage Cars,Classic Cars,6,1,42,Shipped,252
+1276,22/01/2004,Vintage Cars,Trucks and Buses,77,72,37,Shipped,2849
+1277,2/03/2004,Vintage Cars,Trucks and Buses,11,6,35,Shipped,385
+1278,13/04/2004,Vintage Cars,Trucks and Buses,71,66,33,Shipped,2343
+1279,17/08/2004,Vintage Cars,Ships,31,26,27,Shipped,837
+1280,1/09/2004,Vintage Cars,Motorcycles,18,13,4,Shipped,72
+1281,6/10/2003,Vintage Cars,Classic Cars,55,50,10,Shipped,550
+1282,16/10/2004,Vintage Cars,Trucks and Buses,8,3,22,Shipped,176
+1283,17/11/2004,Vintage Cars,Motorcycles,49,44,31,Shipped,1519
+1284,25/11/2004,Vintage Cars,Vintage Cars,87,82,15,Shipped,1305
+1285,12/01/2005,Vintage Cars,Trucks and Buses,91,86,48,Resolved,4368
+1286,16/02/2005,Vintage Cars,Classic Cars,76,71,42,Shipped,3192
+1287,22/04/2005,Vintage Cars,Classic Cars,63,58,38,On Hold,2394
+1288,29/05/2005,Vintage Cars,Vintage Cars,4,-1,3,In Process,12
+1289,11/02/2003,Vintage Cars,Classic Cars,81,76,3,Shipped,243
+1290,16/04/2003,Vintage Cars,Classic Cars,18,13,46,Shipped,828
+1291,6/06/2003,Vintage Cars,Classic Cars,50,45,11,Shipped,550
+1292,8/08/2003,Vintage Cars,Classic Cars,87,82,5,Shipped,435
+1293,28/09/2003,Vintage Cars,Classic Cars,72,67,19,Shipped,1368
+1294,21/10/2003,Vintage Cars,Motorcycles,21,16,20,Shipped,420
+1295,7/11/2003,Vintage Cars,Trucks and Buses,65,60,13,Shipped,845
+1296,14/11/2003,Vintage Cars,Trucks and Buses,84,79,3,Shipped,252
+1297,26/11/2003,Vintage Cars,Classic Cars,94,89,40,Shipped,3760
+1298,2/01/2004,Vintage Cars,Motorcycles,48,43,24,Shipped,1152
+1299,18/02/2004,Vintage Cars,Vintage Cars,6,1,12,Shipped,72
+1300,20/03/2004,Vintage Cars,Vintage Cars,49,44,27,Shipped,1323
+1301,7/05/2004,Vintage Cars,Vintage Cars,47,42,32,Cancelled,1504
+1302,17/06/2004,Vintage Cars,Classic Cars,19,14,50,Shipped,950
+1303,21/07/2004,Vintage Cars,Vintage Cars,31,26,24,Shipped,744
+1304,20/08/2004,Vintage Cars,Classic Cars,63,58,23,Shipped,1449
+1305,9/09/2004,Vintage Cars,Vintage Cars,32,27,24,Shipped,768
+1306,14/10/2004,Vintage Cars,Motorcycles,89,84,12,Shipped,1068
+1307,29/10/2004,Vintage Cars,Planes,47,42,17,Shipped,799
+1308,9/11/2004,Vintage Cars,Classic Cars,27,22,50,Shipped,1350
+1309,21/11/2004,Vintage Cars,Trucks and Buses,55,50,47,Shipped,2585
+1310,2/12/2004,Vintage Cars,Trucks and Buses,87,82,25,Shipped,2175
+1311,26/01/2005,Vintage Cars,Vintage Cars,9,4,14,Shipped,126
+1312,22/02/2005,Vintage Cars,Trucks and Buses,61,56,39,Shipped,2379
+1313,23/03/2005,Vintage Cars,Vintage Cars,37,32,21,Shipped,777
+1314,6/05/2005,Vintage Cars,Classic Cars,18,13,13,On Hold,234
+1315,29/01/2003,Trucks and Buses,Trucks and Buses,75,70,44,Shipped,3300
+1316,1/04/2003,Trucks and Buses,Classic Cars,30,25,32,Shipped,960
+1317,28/05/2003,Trucks and Buses,Classic Cars,34,29,43,Shipped,1462
+1318,24/07/2003,Trucks and Buses,Vintage Cars,51,46,12,Shipped,612
+1319,19/09/2003,Trucks and Buses,Vintage Cars,9,4,39,Shipped,351
+1320,21/10/2003,Trucks and Buses,Motorcycles,83,78,49,Resolved,4067
+1321,6/11/2003,Trucks and Buses,Trucks and Buses,4,-1,25,Shipped,100
+1322,13/11/2003,Trucks and Buses,Classic Cars,4,-1,14,Shipped,56
+1323,25/11/2003,Trucks and Buses,Classic Cars,57,52,35,Shipped,1995
+1324,9/12/2003,Trucks and Buses,Trains,91,86,15,Shipped,1365
+1325,4/02/2004,Trucks and Buses,Planes,66,61,14,Shipped,924
+1326,11/03/2004,Trucks and Buses,Vintage Cars,53,48,32,Shipped,1696
+1327,4/05/2004,Trucks and Buses,Vintage Cars,13,8,17,Shipped,221
+1328,15/06/2004,Trucks and Buses,Motorcycles,40,35,50,Shipped,2000
+1329,19/07/2004,Trucks and Buses,Vintage Cars,45,40,19,Shipped,855
+1330,19/08/2004,Trucks and Buses,Trucks and Buses,87,82,34,Shipped,2958
+1331,8/09/2004,Trucks and Buses,Classic Cars,4,-1,19,Shipped,76
+1332,13/10/2004,Trucks and Buses,Motorcycles,95,90,27,Shipped,2565
+1333,22/10/2004,Trucks and Buses,Classic Cars,50,45,10,Shipped,500
+1334,5/11/2004,Trucks and Buses,Classic Cars,81,76,42,Shipped,3402
+1335,19/11/2004,Trucks and Buses,Vintage Cars,70,65,29,On Hold,2030
+1336,29/11/2004,Trucks and Buses,Classic Cars,92,87,37,Shipped,3404
+1337,10/12/2004,Trucks and Buses,Trucks and Buses,21,16,38,Shipped,798
+1338,20/01/2005,Trucks and Buses,Trains,75,70,17,Shipped,1275
+1339,17/02/2005,Trucks and Buses,Classic Cars,19,14,49,Shipped,931
+1340,1/05/2005,Trucks and Buses,Vintage Cars,8,3,27,Shipped,216
+1341,31/05/2005,Trucks and Buses,Classic Cars,27,22,48,In Process,1296
+1342,29/01/2003,Vintage Cars,Vintage Cars,27,22,28,Shipped,756
+1343,26/03/2003,Vintage Cars,Classic Cars,40,35,30,Shipped,1200
+1344,28/05/2003,Vintage Cars,Motorcycles,65,60,33,Shipped,2145
+1345,24/07/2003,Vintage Cars,Classic Cars,15,10,39,Shipped,585
+1346,19/09/2003,Vintage Cars,Classic Cars,76,71,9,Shipped,684
+1347,21/10/2003,Vintage Cars,Classic Cars,74,69,50,Resolved,3700
+1348,6/11/2003,Vintage Cars,Planes,100,95,17,Shipped,1700
+1349,13/11/2003,Vintage Cars,Classic Cars,92,87,19,Shipped,1748
+1350,25/11/2003,Vintage Cars,Ships,51,46,29,Shipped,1479
+1351,5/12/2003,Vintage Cars,Classic Cars,12,7,10,Shipped,120
+1352,29/01/2004,Vintage Cars,Classic Cars,48,43,7,Shipped,336
+1353,11/03/2004,Vintage Cars,Classic Cars,74,69,49,Shipped,3626
+1354,4/05/2004,Vintage Cars,Vintage Cars,8,3,46,Shipped,368
+1355,15/06/2004,Vintage Cars,Classic Cars,85,80,39,Shipped,3315
+1356,19/07/2004,Vintage Cars,Classic Cars,48,43,23,Shipped,1104
+1357,19/08/2004,Vintage Cars,Trucks and Buses,8,3,42,Shipped,336
+1358,8/09/2004,Vintage Cars,Vintage Cars,51,46,37,Shipped,1887
+1359,11/10/2004,Vintage Cars,Classic Cars,72,67,33,Shipped,2376
+1360,21/10/2004,Vintage Cars,Vintage Cars,7,2,39,Shipped,273
+1361,5/11/2004,Vintage Cars,Classic Cars,13,8,47,Shipped,611
+1362,18/11/2004,Vintage Cars,Classic Cars,35,30,16,Shipped,560
+1363,1/11/2004,Vintage Cars,Vintage Cars,34,29,18,Shipped,612
+1364,10/12/2004,Vintage Cars,Planes,90,85,11,Shipped,990
+1365,20/01/2005,Vintage Cars,Classic Cars,73,68,22,Shipped,1606
+1366,17/02/2005,Vintage Cars,Motorcycles,4,-1,29,Shipped,116
+1367,1/05/2005,Vintage Cars,Trucks and Buses,91,86,10,Shipped,910
+1368,31/05/2005,Vintage Cars,Trains,60,55,29,In Process,1740
+1369,3/03/2003,Classic Cars,Classic Cars,50,45,30,Shipped,1500
+1370,8/05/2003,Classic Cars,Vintage Cars,50,45,9,Shipped,450
+1371,2/07/2003,Classic Cars,Trucks and Buses,56,51,23,Shipped,1288
+1372,3/09/2003,Classic Cars,Vintage Cars,58,53,18,Shipped,1044
+1373,10/10/2003,Classic Cars,Motorcycles,5,0,36,Shipped,180
+1374,4/11/2003,Classic Cars,Vintage Cars,34,29,27,Shipped,918
+1375,11/11/2003,Classic Cars,Trucks and Buses,59,54,13,Shipped,767
+1376,20/11/2003,Classic Cars,Vintage Cars,86,81,18,Shipped,1548
+1377,15/01/2004,Classic Cars,Vintage Cars,80,75,24,Shipped,1920
+1378,22/02/2004,Classic Cars,Trucks and Buses,35,30,41,Shipped,1435
+1379,9/04/2004,Classic Cars,Motorcycles,85,80,5,Shipped,425
+1380,26/05/2004,Classic Cars,Vintage Cars,14,9,43,Shipped,602
+1381,30/06/2004,Classic Cars,Classic Cars,87,82,31,Shipped,2697
+1382,2/08/2004,Classic Cars,Vintage Cars,75,70,38,Shipped,2850
+1383,30/08/2004,Classic Cars,Classic Cars,17,12,39,Shipped,663
+1384,30/09/2004,Classic Cars,Vintage Cars,71,66,38,Shipped,2698
+1385,16/10/2004,Classic Cars,Classic Cars,38,33,3,Shipped,114
+1386,3/11/2004,Classic Cars,Classic Cars,82,77,12,Shipped,984
+1387,16/11/2004,Classic Cars,Classic Cars,37,32,49,Shipped,1813
+1388,24/11/2004,Classic Cars,Vintage Cars,64,59,18,Shipped,1152
+1389,7/12/2004,Classic Cars,Vintage Cars,23,18,44,Shipped,1012
+1390,6/01/2005,Classic Cars,Vintage Cars,100,95,22,Shipped,2200
+1391,10/02/2005,Classic Cars,Vintage Cars,86,81,44,Shipped,3784
+1392,4/03/2005,Classic Cars,Classic Cars,3,-2,35,Shipped,105
+1393,18/03/2003,Classic Cars,Classic Cars,94,89,29,Shipped,2726
+1394,21/05/2003,Classic Cars,Vintage Cars,62,57,17,Shipped,1054
+1395,11/09/2003,Classic Cars,Vintage Cars,23,18,47,Shipped,1081
+1396,17/10/2003,Classic Cars,Motorcycles,29,24,36,Shipped,1044
+1397,5/11/2003,Classic Cars,Classic Cars,46,41,50,Shipped,2300
+1398,12/11/2003,Classic Cars,Vintage Cars,91,86,41,Shipped,3731
+1399,21/11/2003,Classic Cars,Classic Cars,36,31,30,Shipped,1080
+1400,2/12/2003,Classic Cars,Classic Cars,22,17,25,Shipped,550
+1401,22/01/2004,Classic Cars,Classic Cars,38,33,29,Shipped,1102
+1402,2/03/2004,Classic Cars,Classic Cars,39,34,45,Shipped,1755
+1403,13/04/2004,Classic Cars,Classic Cars,49,44,42,Shipped,2058
+1404,7/07/2004,Classic Cars,Classic Cars,23,18,44,Shipped,1012
+1405,9/08/2004,Classic Cars,Vintage Cars,46,41,8,Shipped,368
+1406,1/09/2004,Classic Cars,Classic Cars,54,49,14,Shipped,756
+1407,6/10/2003,Classic Cars,Classic Cars,37,32,4,Shipped,148
+1408,16/10/2004,Classic Cars,Motorcycles,9,4,27,Shipped,243
+1409,17/11/2004,Classic Cars,Classic Cars,4,-1,15,Shipped,60
+1410,25/11/2004,Classic Cars,Classic Cars,75,70,28,Shipped,2100
